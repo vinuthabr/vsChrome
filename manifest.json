@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "VS&CO Assistant For Chrome Dev Docs",
+  "version": "1.0",
+  "icons": {
+    "16": "images/VS&CO.png",
+    "32": "images/VS&CO.png",
+    "48": "images/VS&CO.png",
+    "128": "images/VS&CO.png"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "host_permissions": [
+    "https://developer.chrome.com/*"
+  ],
+  "permissions": [
+    "tabGroups"
+  ]
+}
