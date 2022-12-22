@@ -2,6 +2,7 @@ body {
     width: 20rem;
     background: #f7d4db;
     margin: 0;
+    padding: 8px;
 }
 
 button {
@@ -22,21 +23,19 @@ header {
 h1 {
     color: #221d1d;
     font-family: BentonSans, Helvetica, Arial, sans-serif;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 300;
 }
 
-ul {
-    list-style-type: none;
-    padding-inline-start: 0;
-    margin: 0 8px;
-    background-color: #ffffff;
+.product-card {
+    margin-right: 4px;
 }
 
-section {
+.product-list {
     display: flex;
     padding: 8px;
     overflow: scroll;
+    background-color: #ffffff;
 }
 
 span {
@@ -46,31 +45,40 @@ span {
     font-size: 8px;
     line-height: 12px;
     letter-spacing: 0.04em;
+    display: block;
 }
 
-.image-grid {
-    display: grid;
-    margin-right: 4px;
-}
-
-img {
-    width: 100px;
+.product-image {
     height: 130px;
+    background-color: #F7F7F8;
+    font-size: x-small;
 }
 
-li {
-    padding: 0.25rem;
+.product-price {
+    font-weight: 700;
 }
 
-li:nth-child(odd) {
-    /* background: #80808030; */
+.product-family,
+.product-swatchCount,
+.product-itemLevelCallout,
+.product-price {
+    color: #605858;
 }
 
-li:nth-child(even) {
-    /* background: #ffffff; */
+.product-name,
+.product-rating {
+    color: #221d1d;
 }
 
-h3,
-p {
-    margin: 0;
+.product-price {
+    margin-bottom: 4px;
+}
+
+.product-rating {
+    font-weight: 400;
+    margin-top: 4px;
+}
+
+.product-totalReviewCount {
+    display: inline-block;
 }
