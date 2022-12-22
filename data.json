@@ -1,0 +1,4447 @@
+{
+"banner": {},
+"facets": [
+{
+"isAvailable": true,
+"isOpen": false,
+"key": "brand",
+"label": "Brand",
+"options": [
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Victoria's Secret",
+"resultsCount": 652,
+"swatchImage": "",
+"value": "vs"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "PINK",
+"resultsCount": 139,
+"swatchImage": "",
+"value": "pink"
+}
+]
+},
+{
+"isAvailable": true,
+"isOpen": false,
+"key": "cmscategorydescription",
+"label": "Category",
+"options": [
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Bras",
+"resultsCount": 764,
+"swatchImage": "",
+"value": "Bras"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Sleep & Lingerie",
+"resultsCount": 23,
+"swatchImage": "",
+"value": "Sleep & Lingerie"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Apparel",
+"resultsCount": 3,
+"swatchImage": "",
+"value": "Apparel"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Swim",
+"resultsCount": 1,
+"swatchImage": "",
+"value": "Swim"
+}
+]
+},
+{
+"isAvailable": true,
+"isOpen": false,
+"key": "cmscollection",
+"label": "Collection",
+"options": [
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Angelight",
+"resultsCount": 3,
+"swatchImage": "",
+"value": "Angelight"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Body by Victoria",
+"resultsCount": 71,
+"swatchImage": "",
+"value": "Body by Victoria"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Bombshell",
+"resultsCount": 11,
+"swatchImage": "",
+"value": "Bombshell"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Brands We Love",
+"resultsCount": 149,
+"swatchImage": "",
+"value": "Brands We Love"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Dream Angels",
+"resultsCount": 99,
+"swatchImage": "",
+"value": "Dream Angels"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Incredible",
+"resultsCount": 17,
+"swatchImage": "",
+"value": "Incredible"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Knockout",
+"resultsCount": 7,
+"swatchImage": "",
+"value": "Knockout"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Lightweight",
+"resultsCount": 10,
+"swatchImage": "",
+"value": "Lightweight"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Love by Victoria",
+"resultsCount": 4,
+"swatchImage": "",
+"value": "Love by Victoria"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Nursing",
+"resultsCount": 8,
+"swatchImage": "",
+"value": "Nursing"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "PINK",
+"resultsCount": 139,
+"swatchImage": "",
+"value": "PINK"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Seamless",
+"resultsCount": 2,
+"swatchImage": "",
+"value": "Seamless"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Sexy Illusions by Victoria's Secret",
+"resultsCount": 3,
+"swatchImage": "",
+"value": "Sexy Illusions by Victoria's Secret"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Sexy Tee",
+"resultsCount": 33,
+"swatchImage": "",
+"value": "Sexy Tee"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Sheer Luxe",
+"resultsCount": 2,
+"swatchImage": "",
+"value": "Sheer Luxe"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Signature Collection",
+"resultsCount": 1,
+"swatchImage": "",
+"value": "Signature Collection"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "So Obsessed by Victoria's Secret",
+"resultsCount": 6,
+"swatchImage": "",
+"value": "So Obsessed by Victoria's Secret"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "The Love Cloud Collection",
+"resultsCount": 14,
+"swatchImage": "",
+"value": "The Love Cloud Collection"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "The T-Shirt",
+"resultsCount": 57,
+"swatchImage": "",
+"value": "The T-Shirt"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Very Sexy",
+"resultsCount": 103,
+"swatchImage": "",
+"value": "Very Sexy"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Victoria's Secret",
+"resultsCount": 19,
+"swatchImage": "",
+"value": "Victoria's Secret"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Victoria's Secret Bare",
+"resultsCount": 3,
+"swatchImage": "",
+"value": "Victoria's Secret Bare"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Wicked",
+"resultsCount": 19,
+"swatchImage": "",
+"value": "Wicked"
+}
+]
+},
+{
+"isAvailable": true,
+"isOpen": false,
+"key": "cmssubclassdescription",
+"label": "Style",
+"options": [
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Full Coverage",
+"resultsCount": 65,
+"swatchImage": "",
+"value": "Full Coverage"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Demi",
+"resultsCount": 276,
+"swatchImage": "",
+"value": "Demi"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Plunge",
+"resultsCount": 172,
+"swatchImage": "",
+"value": "Plunge"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Balconette",
+"resultsCount": 61,
+"swatchImage": "",
+"value": "Balconette"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Strapless",
+"resultsCount": 13,
+"swatchImage": "",
+"value": "Strapless"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Bralettes",
+"resultsCount": 55,
+"swatchImage": "",
+"value": "Bralettes"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Lounge",
+"resultsCount": 3,
+"swatchImage": "",
+"value": "Lounge"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Sports Bras",
+"resultsCount": 61,
+"swatchImage": "",
+"value": "Sports Bras"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Shapewear",
+"resultsCount": 8,
+"swatchImage": "",
+"value": "Shapewear"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Corset Tops",
+"resultsCount": 49,
+"swatchImage": "",
+"value": "Corset Tops"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Bra Accessories",
+"resultsCount": 11,
+"swatchImage": "",
+"value": "Bra Accessories"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Maternity Perfect Coverage",
+"resultsCount": 1,
+"swatchImage": "",
+"value": "Maternity Perfect Coverage"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Maternity Lounge",
+"resultsCount": 2,
+"swatchImage": "",
+"value": "Maternity Lounge"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Tanks",
+"resultsCount": 1,
+"swatchImage": "",
+"value": "Tanks"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Cami Sets",
+"resultsCount": 1,
+"swatchImage": "",
+"value": "Cami Sets"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Maternity Bra Accessory",
+"resultsCount": 1,
+"swatchImage": "",
+"value": "Maternity Bra Accessory"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Bandeaus",
+"resultsCount": 1,
+"swatchImage": "",
+"value": "Bandeaus"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Triangle",
+"resultsCount": 5,
+"swatchImage": "",
+"value": "Triangle"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Tops",
+"resultsCount": 2,
+"swatchImage": "",
+"value": "Tops"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Corsets",
+"resultsCount": 1,
+"swatchImage": "",
+"value": "Corsets"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Bustiers",
+"resultsCount": 1,
+"swatchImage": "",
+"value": "Bustiers"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Classic",
+"resultsCount": 1,
+"swatchImage": "",
+"value": "Classic"
+}
+]
+},
+{
+"isAvailable": true,
+"isOpen": false,
+"key": "cmslininglevel",
+"label": "Lining Level",
+"options": [
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Lightly Lined",
+"resultsCount": 350,
+"swatchImage": "",
+"value": "Lightly Lined"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Push-Up",
+"resultsCount": 209,
+"swatchImage": "",
+"value": "Push-Up"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Unlined",
+"resultsCount": 207,
+"swatchImage": "",
+"value": "Unlined"
+}
+]
+},
+{
+"isAvailable": true,
+"isOpen": false,
+"key": "size",
+"label": "Size",
+"options": [
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "1",
+"resultsCount": 5,
+"swatchImage": "",
+"value": "1"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "XS",
+"resultsCount": 144,
+"swatchImage": "",
+"value": "XS"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "XXS",
+"resultsCount": 56,
+"swatchImage": "",
+"value": "XXS"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "2",
+"resultsCount": 4,
+"swatchImage": "",
+"value": "2"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "XS-M",
+"resultsCount": 1,
+"swatchImage": "",
+"value": "XS-M"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "3",
+"resultsCount": 4,
+"swatchImage": "",
+"value": "3"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "4",
+"resultsCount": 4,
+"swatchImage": "",
+"value": "4"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "5",
+"resultsCount": 4,
+"swatchImage": "",
+"value": "5"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "S",
+"resultsCount": 148,
+"swatchImage": "",
+"value": "S"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "28 A",
+"resultsCount": 4,
+"swatchImage": "",
+"value": "28 A"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "28 B",
+"resultsCount": 4,
+"swatchImage": "",
+"value": "28 B"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Small-DD",
+"resultsCount": 93,
+"swatchImage": "",
+"value": "Small-DD"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "M",
+"resultsCount": 152,
+"swatchImage": "",
+"value": "M"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "28 C",
+"resultsCount": 4,
+"swatchImage": "",
+"value": "28 C"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "28 DD (E)",
+"resultsCount": 6,
+"swatchImage": "",
+"value": "28 DD (E)"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "28 DDD (F)",
+"resultsCount": 6,
+"swatchImage": "",
+"value": "28 DDD (F)"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "28 G",
+"resultsCount": 6,
+"swatchImage": "",
+"value": "28 G"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Medium-DD",
+"resultsCount": 58,
+"swatchImage": "",
+"value": "Medium-DD"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "L",
+"resultsCount": 146,
+"swatchImage": "",
+"value": "L"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "L-XXL",
+"resultsCount": 1,
+"swatchImage": "",
+"value": "L-XXL"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "28 H",
+"resultsCount": 6,
+"swatchImage": "",
+"value": "28 H"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "28 I",
+"resultsCount": 6,
+"swatchImage": "",
+"value": "28 I"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "28 J",
+"resultsCount": 4,
+"swatchImage": "",
+"value": "28 J"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Large-DD",
+"resultsCount": 38,
+"swatchImage": "",
+"value": "Large-DD"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "XL",
+"resultsCount": 134,
+"swatchImage": "",
+"value": "XL"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "28 K",
+"resultsCount": 2,
+"swatchImage": "",
+"value": "28 K"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "XXL",
+"resultsCount": 84,
+"swatchImage": "",
+"value": "XXL"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "28 L",
+"resultsCount": 1,
+"swatchImage": "",
+"value": "28 L"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "28 M",
+"resultsCount": 1,
+"swatchImage": "",
+"value": "28 M"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "30 A",
+"resultsCount": 4,
+"swatchImage": "",
+"value": "30 A"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "30 B",
+"resultsCount": 14,
+"swatchImage": "",
+"value": "30 B"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "30 C",
+"resultsCount": 17,
+"swatchImage": "",
+"value": "30 C"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "30 DDD (F)",
+"resultsCount": 6,
+"swatchImage": "",
+"value": "30 DDD (F)"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "30 I",
+"resultsCount": 6,
+"swatchImage": "",
+"value": "30 I"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "30 J",
+"resultsCount": 4,
+"swatchImage": "",
+"value": "30 J"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "30 K",
+"resultsCount": 3,
+"swatchImage": "",
+"value": "30 K"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "30 L",
+"resultsCount": 2,
+"swatchImage": "",
+"value": "30 L"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "30 M",
+"resultsCount": 1,
+"swatchImage": "",
+"value": "30 M"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "32 A",
+"resultsCount": 171,
+"swatchImage": "",
+"value": "32 A"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "32 AA",
+"resultsCount": 31,
+"swatchImage": "",
+"value": "32 AA"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "32 B",
+"resultsCount": 241,
+"swatchImage": "",
+"value": "32 B"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "32 C",
+"resultsCount": 290,
+"swatchImage": "",
+"value": "32 C"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "32 D",
+"resultsCount": 385,
+"swatchImage": "",
+"value": "32 D"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "32 DD (E)",
+"resultsCount": 449,
+"swatchImage": "",
+"value": "32 DD (E)"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "32 DDD (F)",
+"resultsCount": 298,
+"swatchImage": "",
+"value": "32 DDD (F)"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "32 I",
+"resultsCount": 6,
+"swatchImage": "",
+"value": "32 I"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "32 J",
+"resultsCount": 11,
+"swatchImage": "",
+"value": "32 J"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "32 K",
+"resultsCount": 10,
+"swatchImage": "",
+"value": "32 K"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "32 L",
+"resultsCount": 9,
+"swatchImage": "",
+"value": "32 L"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "32 M",
+"resultsCount": 7,
+"swatchImage": "",
+"value": "32 M"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "32 N",
+"resultsCount": 2,
+"swatchImage": "",
+"value": "32 N"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "34 A",
+"resultsCount": 187,
+"swatchImage": "",
+"value": "34 A"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "34 AA",
+"resultsCount": 36,
+"swatchImage": "",
+"value": "34 AA"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "34 B",
+"resultsCount": 285,
+"swatchImage": "",
+"value": "34 B"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "34 C",
+"resultsCount": 306,
+"swatchImage": "",
+"value": "34 C"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "34 D",
+"resultsCount": 323,
+"swatchImage": "",
+"value": "34 D"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "34 DD (E)",
+"resultsCount": 312,
+"swatchImage": "",
+"value": "34 DD (E)"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "34 DDD (F)",
+"resultsCount": 219,
+"swatchImage": "",
+"value": "34 DDD (F)"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "34 G",
+"resultsCount": 17,
+"swatchImage": "",
+"value": "34 G"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "34 H",
+"resultsCount": 7,
+"swatchImage": "",
+"value": "34 H"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "34 I",
+"resultsCount": 18,
+"swatchImage": "",
+"value": "34 I"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "34 J",
+"resultsCount": 16,
+"swatchImage": "",
+"value": "34 J"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "34 K",
+"resultsCount": 15,
+"swatchImage": "",
+"value": "34 K"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "34 L",
+"resultsCount": 14,
+"swatchImage": "",
+"value": "34 L"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "34 M",
+"resultsCount": 11,
+"swatchImage": "",
+"value": "34 M"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "34 N",
+"resultsCount": 9,
+"swatchImage": "",
+"value": "34 N"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "34 O",
+"resultsCount": 6,
+"swatchImage": "",
+"value": "34 O"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "36 A",
+"resultsCount": 88,
+"swatchImage": "",
+"value": "36 A"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "36 AA",
+"resultsCount": 16,
+"swatchImage": "",
+"value": "36 AA"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "36 B",
+"resultsCount": 273,
+"swatchImage": "",
+"value": "36 B"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "36 C",
+"resultsCount": 324,
+"swatchImage": "",
+"value": "36 C"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "36 D",
+"resultsCount": 328,
+"swatchImage": "",
+"value": "36 D"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "36 DD (E)",
+"resultsCount": 317,
+"swatchImage": "",
+"value": "36 DD (E)"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "36 DDD (F)",
+"resultsCount": 227,
+"swatchImage": "",
+"value": "36 DDD (F)"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "36 G",
+"resultsCount": 22,
+"swatchImage": "",
+"value": "36 G"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "36 H",
+"resultsCount": 12,
+"swatchImage": "",
+"value": "36 H"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "36 I",
+"resultsCount": 12,
+"swatchImage": "",
+"value": "36 I"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "36 J",
+"resultsCount": 12,
+"swatchImage": "",
+"value": "36 J"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "36 K",
+"resultsCount": 12,
+"swatchImage": "",
+"value": "36 K"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "36 L",
+"resultsCount": 12,
+"swatchImage": "",
+"value": "36 L"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "36 M",
+"resultsCount": 10,
+"swatchImage": "",
+"value": "36 M"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "36 N",
+"resultsCount": 10,
+"swatchImage": "",
+"value": "36 N"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "36 O",
+"resultsCount": 8,
+"swatchImage": "",
+"value": "36 O"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "38 B",
+"resultsCount": 223,
+"swatchImage": "",
+"value": "38 B"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "38 C",
+"resultsCount": 293,
+"swatchImage": "",
+"value": "38 C"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "38 D",
+"resultsCount": 315,
+"swatchImage": "",
+"value": "38 D"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "38 DD (E)",
+"resultsCount": 308,
+"swatchImage": "",
+"value": "38 DD (E)"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "38 DDD (F)",
+"resultsCount": 220,
+"swatchImage": "",
+"value": "38 DDD (F)"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "38 G",
+"resultsCount": 42,
+"swatchImage": "",
+"value": "38 G"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "38 H",
+"resultsCount": 11,
+"swatchImage": "",
+"value": "38 H"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "38 I",
+"resultsCount": 12,
+"swatchImage": "",
+"value": "38 I"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "38 J",
+"resultsCount": 12,
+"swatchImage": "",
+"value": "38 J"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "38 K",
+"resultsCount": 12,
+"swatchImage": "",
+"value": "38 K"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "38 L",
+"resultsCount": 12,
+"swatchImage": "",
+"value": "38 L"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "38 M",
+"resultsCount": 10,
+"swatchImage": "",
+"value": "38 M"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "38 N",
+"resultsCount": 10,
+"swatchImage": "",
+"value": "38 N"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "38 O",
+"resultsCount": 8,
+"swatchImage": "",
+"value": "38 O"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "40 C",
+"resultsCount": 174,
+"swatchImage": "",
+"value": "40 C"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "40 D",
+"resultsCount": 178,
+"swatchImage": "",
+"value": "40 D"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "40 DD (E)",
+"resultsCount": 184,
+"swatchImage": "",
+"value": "40 DD (E)"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "40 DDD (F)",
+"resultsCount": 99,
+"swatchImage": "",
+"value": "40 DDD (F)"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "40 G",
+"resultsCount": 17,
+"swatchImage": "",
+"value": "40 G"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "40 H",
+"resultsCount": 12,
+"swatchImage": "",
+"value": "40 H"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "40 I",
+"resultsCount": 12,
+"swatchImage": "",
+"value": "40 I"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "40 J",
+"resultsCount": 12,
+"swatchImage": "",
+"value": "40 J"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "40 K",
+"resultsCount": 12,
+"swatchImage": "",
+"value": "40 K"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "40 L",
+"resultsCount": 12,
+"swatchImage": "",
+"value": "40 L"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "40 M",
+"resultsCount": 10,
+"swatchImage": "",
+"value": "40 M"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "40 N",
+"resultsCount": 8,
+"swatchImage": "",
+"value": "40 N"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "40 O",
+"resultsCount": 6,
+"swatchImage": "",
+"value": "40 O"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "42 D",
+"resultsCount": 58,
+"swatchImage": "",
+"value": "42 D"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "42 DD (E)",
+"resultsCount": 63,
+"swatchImage": "",
+"value": "42 DD (E)"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "42 DDD (F)",
+"resultsCount": 34,
+"swatchImage": "",
+"value": "42 DDD (F)"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "42 G",
+"resultsCount": 19,
+"swatchImage": "",
+"value": "42 G"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "42 H",
+"resultsCount": 11,
+"swatchImage": "",
+"value": "42 H"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "42 I",
+"resultsCount": 12,
+"swatchImage": "",
+"value": "42 I"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "42 J",
+"resultsCount": 12,
+"swatchImage": "",
+"value": "42 J"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "42 K",
+"resultsCount": 12,
+"swatchImage": "",
+"value": "42 K"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "42 L",
+"resultsCount": 8,
+"swatchImage": "",
+"value": "42 L"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "42 M",
+"resultsCount": 1,
+"swatchImage": "",
+"value": "42 M"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "42 N",
+"resultsCount": 1,
+"swatchImage": "",
+"value": "42 N"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "42 O",
+"resultsCount": 1,
+"swatchImage": "",
+"value": "42 O"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "44 C",
+"resultsCount": 50,
+"swatchImage": "",
+"value": "44 C"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "44 D",
+"resultsCount": 53,
+"swatchImage": "",
+"value": "44 D"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "44 DD (E)",
+"resultsCount": 13,
+"swatchImage": "",
+"value": "44 DD (E)"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "44 DDD (F)",
+"resultsCount": 17,
+"swatchImage": "",
+"value": "44 DDD (F)"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "44 G",
+"resultsCount": 11,
+"swatchImage": "",
+"value": "44 G"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "44 H",
+"resultsCount": 11,
+"swatchImage": "",
+"value": "44 H"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "44 I",
+"resultsCount": 11,
+"swatchImage": "",
+"value": "44 I"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "44 J",
+"resultsCount": 4,
+"swatchImage": "",
+"value": "44 J"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "44 K",
+"resultsCount": 1,
+"swatchImage": "",
+"value": "44 K"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "44 L",
+"resultsCount": 1,
+"swatchImage": "",
+"value": "44 L"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "46 DD (E)",
+"resultsCount": 1,
+"swatchImage": "",
+"value": "46 DD (E)"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "46 DDD (F)",
+"resultsCount": 1,
+"swatchImage": "",
+"value": "46 DDD (F)"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "46 G",
+"resultsCount": 1,
+"swatchImage": "",
+"value": "46 G"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "46 H",
+"resultsCount": 1,
+"swatchImage": "",
+"value": "46 H"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "A",
+"resultsCount": 1,
+"swatchImage": "",
+"value": "A"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "AA/A",
+"resultsCount": 1,
+"swatchImage": "",
+"value": "AA/A"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "B",
+"resultsCount": 1,
+"swatchImage": "",
+"value": "B"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "B/C",
+"resultsCount": 2,
+"swatchImage": "",
+"value": "B/C"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Curvy L",
+"resultsCount": 2,
+"swatchImage": "",
+"value": "Curvy L"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Curvy M",
+"resultsCount": 2,
+"swatchImage": "",
+"value": "Curvy M"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Curvy S",
+"resultsCount": 2,
+"swatchImage": "",
+"value": "Curvy S"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Curvy XL",
+"resultsCount": 2,
+"swatchImage": "",
+"value": "Curvy XL"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Curvy XS",
+"resultsCount": 2,
+"swatchImage": "",
+"value": "Curvy XS"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Curvy XXL",
+"resultsCount": 2,
+"swatchImage": "",
+"value": "Curvy XXL"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "D/DD",
+"resultsCount": 2,
+"swatchImage": "",
+"value": "D/DD"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "One Size",
+"resultsCount": 9,
+"swatchImage": "",
+"value": "One Size"
+}
+]
+},
+{
+"isAvailable": true,
+"isOpen": false,
+"key": "color_family_combine",
+"label": "Color",
+"options": [
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Beige",
+"resultsCount": 130,
+"swatchImage": "tif/8a/fc/8afcce513f81407ea753d5cb62c0d018/393873GQD_SW",
+"value": "Beige;https://www.victoriassecret.com/p/s/125x125/tif/8a/fc/8afcce513f81407ea753d5cb62c0d018/393873GQD_SW.jpg"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Black",
+"resultsCount": 286,
+"swatchImage": "tif/9c/5a/9c5a6514aec94b458f3efd663aed62de/V894311_DNC",
+"value": "Black;https://www.victoriassecret.com/p/s/125x125/tif/9c/5a/9c5a6514aec94b458f3efd663aed62de/V894311_DNC.jpg"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Blue",
+"resultsCount": 154,
+"swatchImage": "tif/8f/de/8fdedb1e3afc4c5387c51b16d5838b56/V896062_GVJ_SW",
+"value": "Blue;https://www.victoriassecret.com/p/s/125x125/tif/8f/de/8fdedb1e3afc4c5387c51b16d5838b56/V896062_GVJ_SW.jpg"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Brown",
+"resultsCount": 44,
+"swatchImage": "tif/44/9c/449c3377f9a64546b89152b51033cb71/V894291_4XV",
+"value": "Brown;https://www.victoriassecret.com/p/s/125x125/tif/44/9c/449c3377f9a64546b89152b51033cb71/V894291_4XV.jpg"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Floral",
+"resultsCount": 72,
+"swatchImage": "tif/31/6b/316b817a17a547a78ef95465d8f3c7e3/V896475_J8R_SW",
+"value": "Floral;https://www.victoriassecret.com/p/s/125x125/tif/31/6b/316b817a17a547a78ef95465d8f3c7e3/V896475_J8R_SW.jpg"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Gold",
+"resultsCount": 2,
+"swatchImage": "tif/2d/57/2d572060b83a4ac484ade87fb1ff0c1e/V530753_FG8_SW",
+"value": "Gold;https://www.victoriassecret.com/p/s/125x125/tif/2d/57/2d572060b83a4ac484ade87fb1ff0c1e/V530753_FG8_SW.jpg"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Green",
+"resultsCount": 96,
+"swatchImage": "tif/f6/a0/f6a05c2e24e046d9a1c11e8a0df9f7ca/V851380_38Y",
+"value": "Green;https://www.victoriassecret.com/p/s/125x125/tif/f6/a0/f6a05c2e24e046d9a1c11e8a0df9f7ca/V851380_38Y.jpg"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Grey",
+"resultsCount": 62,
+"swatchImage": "tif/b0/55/b05576e70fed449c8f4ffecb58d92047/V822522_C07",
+"value": "Grey;https://www.victoriassecret.com/p/s/125x125/tif/b0/55/b05576e70fed449c8f4ffecb58d92047/V822522_C07.jpg"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Multicolored",
+"resultsCount": 24,
+"swatchImage": "tif/ed/3b/ed3b9f2af2b64d3ab5cb3ff084e78e3d/V896220_HS6_SW",
+"value": "Multicolored;https://www.victoriassecret.com/p/s/125x125/tif/ed/3b/ed3b9f2af2b64d3ab5cb3ff084e78e3d/V896220_HS6_SW.jpg"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Orange",
+"resultsCount": 22,
+"swatchImage": "tif/17/8f/178f895b5c4048f3bb3605113a624854/3872533AR_SW",
+"value": "Orange;https://www.victoriassecret.com/p/s/125x125/tif/17/8f/178f895b5c4048f3bb3605113a624854/3872533AR_SW.jpg"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Pink",
+"resultsCount": 193,
+"swatchImage": "tif/b0/00/b0008a71fa114cc5967733a0270a9887/V846613_23D",
+"value": "Pink;https://www.victoriassecret.com/p/s/125x125/tif/b0/00/b0008a71fa114cc5967733a0270a9887/V846613_23D.jpg"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Print",
+"resultsCount": 167,
+"swatchImage": "https://www.victoriassecret.com/p/s/125x125/eps/be/ae/beae759fb1f840a48aa4353802c19ac8/V877674_X98",
+"value": "Print;https://www.victoriassecret.com/p/s/125x125/eps/be/ae/beae759fb1f840a48aa4353802c19ac8/V877674_X98.jpg"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Purple",
+"resultsCount": 89,
+"swatchImage": "tif/25/b5/25b57da3911749feb1f00c7f65ad2ace/390979GSD_SW",
+"value": "Purple;https://www.victoriassecret.com/p/s/125x125/tif/25/b5/25b57da3911749feb1f00c7f65ad2ace/390979GSD_SW.jpg"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Red",
+"resultsCount": 135,
+"swatchImage": "tif/ab/68/ab6810d04d414848a6bf9a7bee4f319c/V895256_EQP",
+"value": "Red;https://www.victoriassecret.com/p/s/125x125/tif/ab/68/ab6810d04d414848a6bf9a7bee4f319c/V895256_EQP.jpg"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "White/Ivory",
+"resultsCount": 90,
+"swatchImage": "tif/9e/c0/9ec0b8a7493d40768a853df32f3bedfa/V804594_092",
+"value": "White/Ivory;https://www.victoriassecret.com/p/s/125x125/tif/9e/c0/9ec0b8a7493d40768a853df32f3bedfa/V804594_092.jpg"
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Yellow",
+"resultsCount": 23,
+"swatchImage": "tif/1a/92/1a92b19729bc43a29026f938c827c762/V874987_37D",
+"value": "Yellow;https://www.victoriassecret.com/p/s/125x125/tif/1a/92/1a92b19729bc43a29026f938c827c762/V874987_37D.jpg"
+}
+]
+},
+{
+"isAvailable": true,
+"isOpen": false,
+"key": "pricerange",
+"label": "Price Range",
+"options": [
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "Under $25",
+"resultsCount": 337,
+"swatchImage": "",
+"value": "\"-inf\"-\"25\""
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "$25 - $50",
+"resultsCount": 320,
+"swatchImage": "",
+"value": "\"25\"-\"50\""
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "$50 - $75",
+"resultsCount": 189,
+"swatchImage": "",
+"value": "\"50\"-\"75\""
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "$75 - $100",
+"resultsCount": 52,
+"swatchImage": "",
+"value": "\"75\"-\"100\""
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "$100 - $125",
+"resultsCount": 8,
+"swatchImage": "",
+"value": "\"100\"-\"125\""
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "$125 - $150",
+"resultsCount": 5,
+"swatchImage": "",
+"value": "\"125\"-\"150\""
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "$150 - $200",
+"resultsCount": 9,
+"swatchImage": "",
+"value": "\"150\"-\"200\""
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "$200 and up",
+"resultsCount": 1,
+"swatchImage": "",
+"value": "\"200\"-\"inf\""
+}
+]
+},
+{
+"isAvailable": true,
+"isOpen": false,
+"key": "rating_ranges",
+"label": "Ratings",
+"options": [
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "5",
+"resultsCount": 57,
+"swatchImage": "",
+"value": "\"5\"-\"inf\""
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "4",
+"resultsCount": 464,
+"swatchImage": "",
+"value": "\"4\"-\"4.999\""
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "3",
+"resultsCount": 152,
+"swatchImage": "",
+"value": "\"3\"-\"3.999\""
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "2",
+"resultsCount": 26,
+"swatchImage": "",
+"value": "\"2\"-\"2.999\""
+},
+{
+"isAvailable": true,
+"isSelected": false,
+"label": "1",
+"resultsCount": 13,
+"swatchImage": "",
+"value": "\"1\"-\"1.999\""
+}
+]
+}
+],
+"products": [
+{
+"id": "5000000002",
+"url": "/us/vs/bras-catalog/5000000002?choice=54A2&genericId=11211705&limit=100&resultPosition=1&searchBrand=vs&searchedFor=bra",
+"family": "Body by Victoria",
+"name": "Lightly Lined Full-Coverage Bra",
+"rating": 4.17,
+"totalReviewCount": 486,
+"genericId": "11211705",
+"choiceValue": "54A2",
+"choice": {
+"genericId": "11211705",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/ee/cc/eecc3e5a84c3463b9e5fdaf3d7528d39/1118862954A2_SW"
+},
+"productImages": [
+"tif/10/5f/105f928ebcdf4e1c8b1aa3522beecfd2/1118862954A2_34DD_OM_F"
+],
+"swatchCount": "2",
+"itemLevelCallout": [
+"Available in cups B-G"
+],
+"price": "$49.95"
+},
+{
+"id": "5000008470",
+"url": "/us/vs/bras-catalog/5000008470?choice=65H8&genericId=11211803&limit=100&resultPosition=2&searchBrand=vs&searchedFor=bra",
+"family": "Very Sexy",
+"name": "So Obsessed Wireless Push-Up Bra",
+"rating": 4.25,
+"totalReviewCount": 326,
+"genericId": "11211803",
+"choiceValue": "65H8",
+"choice": {
+"genericId": "11211803",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/10/e6/10e633a7f077409bb68edf49511339a0/1121180365H8_SW"
+},
+"productImages": [
+"tif/8b/ee/8beeea6294fa433497bd50ea1808663e/1121180365H8_OM_F"
+],
+"swatchCount": "7",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$49.95"
+},
+{
+"id": "5000006691",
+"url": "/us/vs/bras-catalog/5000006691?choice=65H8&genericId=11199099&limit=100&resultPosition=3&searchBrand=vs&searchedFor=bra",
+"family": "The T-shirt",
+"name": "Lightly-Lined Full Coverage Bra",
+"rating": 4.05,
+"totalReviewCount": 225,
+"genericId": "11199099",
+"choiceValue": "65H8",
+"choice": {
+"genericId": "11199099",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/0e/cc/0eccb7d496e8436cb3bf482f24ef5f92/1119909965H8_SW"
+},
+"productImages": [
+"tif/e0/87/e087a9fc84bb46a0b8b1d09843bd0e17/1119909965H8_OM_F"
+],
+"swatchCount": "3",
+"itemLevelCallout": [
+"Available in cups B-DDD"
+],
+"price": "$39.95"
+},
+{
+"id": "5000000067",
+"url": "/us/vs/bras-catalog/5000000067?choice=54A2&genericId=11200925&limit=100&resultPosition=4&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret",
+"name": "Sexy Tee Lacie Push-Up Bra",
+"rating": 3.98,
+"totalReviewCount": 489,
+"genericId": "11200925",
+"choiceValue": "54A2",
+"choice": {
+"genericId": "11200925",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/e5/30/e53021e3d23d4df88858763d7f1ccf50/1120092554A2_SW"
+},
+"productImages": [
+"tif/55/74/55747cd763424fdaa6c53cf14747c458/1120092554A2_OM_F"
+],
+"swatchCount": "3",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$39.95",
+"salePrice": "$29.50"
+},
+{
+"id": "5000008468",
+"url": "/us/vs/bras-catalog/5000008468?choice=54A2&genericId=11200762&limit=100&resultPosition=5&searchBrand=vs&searchedFor=bra",
+"family": "Love Cloud",
+"name": "Smooth Lightly Lined Demi Bra",
+"rating": 4.35,
+"totalReviewCount": 155,
+"genericId": "11200762",
+"choiceValue": "54A2",
+"choice": {
+"genericId": "11200762",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/eb/3c/eb3cd87cca6a4d8abd5e2595c3126619/1120076254A2_SW"
+},
+"productImages": [
+"tif/f1/f3/f1f3d3e37acb41e0b857e86e664721c4/1120076254A2_34DD_OM_F"
+],
+"swatchCount": "11",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$49.95"
+},
+{
+"id": "5000000022",
+"url": "/us/vs/bras-catalog/5000000022?choice=54A2&genericId=11208009&limit=100&resultPosition=6&searchBrand=vs&searchedFor=bra",
+"family": "Very Sexy",
+"name": "Shine Strap Push-Up Bra",
+"rating": 3.95,
+"totalReviewCount": 320,
+"genericId": "11208009",
+"choiceValue": "54A2",
+"choice": {
+"genericId": "11208009",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/8f/a7/8fa7bb3ba5e1437a8cc1dd0f817adb98/1117693354A2_SW"
+},
+"productImages": [
+"tif/3f/25/3f25ae3962eb403da29c875e17c41bfe/1114466754A2_OM_F"
+],
+"swatchCount": "3",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$69.95"
+},
+{
+"id": "5000008681",
+"url": "/us/vs/bras-catalog/5000008681?choice=54A2&genericId=11207582&limit=100&resultPosition=7&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret Bare",
+"name": "Infinity Flex Push-Up Perfect Shape Bra",
+"rating": 4.09,
+"totalReviewCount": 32,
+"genericId": "11207582",
+"choiceValue": "54A2",
+"choice": {
+"genericId": "11207582",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/81/6b/816b0696cfb240c4a5abb1d421e9b1a0/1120758254A2_SW"
+},
+"productImages": [
+"tif/79/bd/79bd28e6596f40b48df24bbabdf2d3f0/1120758254A2_OM_F"
+],
+"swatchCount": "5",
+"itemLevelCallout": [
+"Available in cups B-G"
+],
+"price": "$44.95"
+},
+{
+"id": "5000008781",
+"url": "/us/vs/bras-catalog/5000008781?choice=54A2&genericId=11206238&limit=100&resultPosition=8&searchBrand=vs&searchedFor=bra",
+"family": "Love Cloud",
+"name": "Smooth Lightly Lined Full Coverage Bra",
+"rating": 4.07,
+"totalReviewCount": 74,
+"genericId": "11206238",
+"choiceValue": "54A2",
+"choice": {
+"genericId": "11206238",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/46/4b/464b91a6276748d59d1415a2e7285d6f/1120623854A2_SW"
+},
+"productImages": [
+"tif/0d/fe/0dfef411fa7e4aa49857826e7c8090d3/1120623854A2_OM_F"
+],
+"swatchCount": "6",
+"itemLevelCallout": [
+"Available in cups B-DDD"
+],
+"price": "$49.95"
+},
+{
+"id": "5000008466",
+"url": "/us/vs/bras-catalog/5000008466?choice=4U16&genericId=11200761&limit=100&resultPosition=9&searchBrand=vs&searchedFor=bra",
+"family": "Love Cloud",
+"name": "Push-Up Plunge Bra",
+"rating": 4.02,
+"totalReviewCount": 162,
+"genericId": "11200761",
+"choiceValue": "4U16",
+"choice": {
+"genericId": "11200761",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/bd/8e/bd8e062fe9094a1380ecb496e88d7209/112007614U16_SW"
+},
+"productImages": [
+"tif/ae/71/ae71b3d9cc6c4555b47e5e0a210972d2/112007614U16_OM_F"
+],
+"swatchCount": "10",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$49.95"
+},
+{
+"id": "5000000066",
+"url": "/us/vs/bras-catalog/5000000066?choice=54A2&genericId=11200918&limit=100&resultPosition=10&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret",
+"name": "Sexy Tee Lightly-Lined Lacie Demi Bra",
+"rating": 4,
+"totalReviewCount": 337,
+"genericId": "11200918",
+"choiceValue": "54A2",
+"choice": {
+"genericId": "11200918",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/8c/79/8c79873df9ba4541bd663c60db5cd24e/1120091854A2_SW"
+},
+"productImages": [
+"tif/49/73/497350fd64014a388974ba9535f05f81/1120091854A2_34DD_OM_F"
+],
+"swatchCount": "3",
+"itemLevelCallout": [
+"Available in cups B-DDD"
+],
+"price": "$39.95",
+"salePrice": "$29.50"
+},
+{
+"id": "5000004202",
+"url": "/us/vs/bras-catalog/5000004202?choice=54A2&genericId=11202304&limit=100&resultPosition=11&searchBrand=vs&searchedFor=bra",
+"family": "The T-shirt",
+"name": "Push-Up Perfect Shape Bra",
+"rating": 4.32,
+"totalReviewCount": 173,
+"genericId": "11202304",
+"choiceValue": "54A2",
+"choice": {
+"genericId": "11202304",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/20/25/2025e3933b1544bda4f01c6330c7cfe0/1120230454A2_SW"
+},
+"productImages": [
+"tif/8f/4b/8f4bd66435e247d69ab46259900858d1/1120230454A2_OM_F"
+],
+"swatchCount": "3",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$39.95"
+},
+{
+"id": "5000005702",
+"url": "/us/vs/bras-catalog/5000005702?choice=65H8&genericId=11202314&limit=100&resultPosition=12&searchBrand=vs&searchedFor=bra",
+"family": "The T-shirt",
+"name": "Lightly-Lined Wireless Bra",
+"rating": 3.97,
+"totalReviewCount": 315,
+"genericId": "11202314",
+"choiceValue": "65H8",
+"choice": {
+"genericId": "11202314",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/c2/48/c2488971f9ce49be94b74e13f343ff44/1120231465H8_SW"
+},
+"productImages": [
+"tif/16/1a/161a9140721a4f3191c91be4d11bccd7/1120231465H8_OM_F"
+],
+"swatchCount": "3",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$39.95"
+},
+{
+"id": "5000006691",
+"url": "/us/vs/bras-catalog/5000006691?choice=54A2&genericId=11199095&limit=100&resultPosition=13&searchBrand=vs&searchedFor=bra",
+"family": "The T-shirt",
+"name": "Lightly-Lined Full Coverage Bra",
+"rating": 4.05,
+"totalReviewCount": 225,
+"genericId": "11199095",
+"choiceValue": "54A2",
+"choice": {
+"genericId": "11199095",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/74/95/7495203619054660aa06292814e48811/1119909554A2_SW"
+},
+"productImages": [
+"tif/e7/44/e7443db0214d48e2b0efd71a6661c4f2/1119909554A2_OM_F"
+],
+"swatchCount": "2",
+"itemLevelCallout": [
+"Available in cups B-DDD"
+],
+"price": "$39.95"
+},
+{
+"id": "5000005210",
+"url": "/us/vs/bras-catalog/5000005210?choice=54A2&genericId=11199371&limit=100&resultPosition=14&searchBrand=vs&searchedFor=bra",
+"family": "Dream Angels",
+"name": "Wicked Unlined Lace Balconette Bra with Lace-Up Detail",
+"rating": 4.48,
+"totalReviewCount": 223,
+"genericId": "11199371",
+"choiceValue": "54A2",
+"choice": {
+"genericId": "11199371",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/52/29/52292e3392044f5eb907a4e25cf9ec25/1119937154A2_SW"
+},
+"productImages": [
+"tif/b4/2e/b42eac63b9024fc08be0945a88808f40/1119937154A2_OM_F"
+],
+"swatchCount": "5",
+"itemLevelCallout": [
+"Available in cups A-G"
+],
+"price": "$44.95"
+},
+{
+"id": "5000000446",
+"url": "/us/vs/bras-catalog/5000000446?choice=3XY0&genericId=11205795&limit=100&resultPosition=15&searchBrand=vs&searchedFor=bra",
+"family": "Body by Victoria",
+"name": "Smooth Push-Up Perfect Shape Bra",
+"rating": 4.2,
+"totalReviewCount": 172,
+"genericId": "11205795",
+"choiceValue": "3XY0",
+"choice": {
+"genericId": "11205795",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/a5/63/a563c07c4975450994d8bb3604ae0285/111886333XY0_SW"
+},
+"productImages": [
+"tif/6e/31/6e31ed2788ff4b2bb4c70126c8545367/111886333XY0_OM_F"
+],
+"swatchCount": "8",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$49.95"
+},
+{
+"id": "5000000002",
+"url": "/us/vs/bras-catalog/5000000002?choice=96B7&genericId=11205777&limit=100&resultPosition=16&searchBrand=vs&searchedFor=bra",
+"family": "Body by Victoria",
+"name": "Lightly Lined Full Coverage Bra",
+"rating": 4.17,
+"totalReviewCount": 486,
+"genericId": "11205777",
+"choiceValue": "96B7",
+"choice": {
+"genericId": "11205777",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/51/0d/510da4e70afd43aeac9511a06732a720/1120577796B7_SW"
+},
+"productImages": [
+"tif/b8/b9/b8b96e3f16a84cc3b7a40c4c58276f65/1120577796B7_OM_F"
+],
+"swatchCount": "9",
+"itemLevelCallout": [
+"Available in cups B-G"
+],
+"price": "$49.95"
+},
+{
+"id": "5000007766",
+"url": "/us/vs/bras-catalog/5000007766?choice=54A2&genericId=11191074&limit=100&resultPosition=17&searchBrand=vs&searchedFor=bra",
+"family": "Incredible by Victoria’s Secret",
+"name": "Wireless Push-Up Bra",
+"rating": 4.07,
+"totalReviewCount": 186,
+"genericId": "11191074",
+"choiceValue": "54A2",
+"choice": {
+"genericId": "11191074",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/09/62/096289c080e64131852dbe716bf2a373/1119107454A2_SW"
+},
+"productImages": [
+"tif/7d/fe/7dfeea1c28c044a2b3b56cc444f5580d/1119107454A2_OM_F"
+],
+"swatchCount": "8",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$44.95"
+},
+{
+"id": "5000000005",
+"url": "/us/vs/bras-catalog/5000000005?choice=54A2&genericId=11205788&limit=100&resultPosition=18&searchBrand=vs&searchedFor=bra",
+"family": "Body by Victoria",
+"name": "Smooth Lightly Lined Demi Bra",
+"rating": 4.22,
+"totalReviewCount": 220,
+"genericId": "11205788",
+"choiceValue": "54A2",
+"choice": {
+"genericId": "11205788",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/63/4a/634a6b7f5cbd4fa7b4042fe6326d5bb9/1118944754A2_SW"
+},
+"productImages": [
+"tif/54/4a/544a3ddb56e5444b81ec471ada8d3db6/1118944754A2_OM_F"
+],
+"swatchCount": "7",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$49.95"
+},
+{
+"id": "5000000022",
+"url": "/us/vs/bras-catalog/5000000022?choice=54A2&genericId=11139729&limit=100&resultPosition=19&searchBrand=vs&searchedFor=bra",
+"family": "Very Sexy",
+"name": "Push-Up Bra",
+"rating": 3.95,
+"totalReviewCount": 320,
+"genericId": "11139729",
+"choiceValue": "54A2",
+"choice": {
+"genericId": "11139729",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/97/51/9751890e271c44389d74e7c15f27e125/1113972954A2_SW"
+},
+"productImages": [
+"tif/0b/f2/0bf27f72f6f04a4e8b98c529fb52e2f1/1113972954A2_OM_F"
+],
+"swatchCount": "3",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$49.95"
+},
+{
+"id": "5000000022",
+"url": "/us/vs/bras-catalog/5000000022?choice=54A2&genericId=11208007&limit=100&resultPosition=20&searchBrand=vs&searchedFor=bra",
+"family": "Very Sexy",
+"name": "Shine Strap Lace Push-Up Bra",
+"rating": 3.95,
+"totalReviewCount": 320,
+"genericId": "11208007",
+"choiceValue": "54A2",
+"choice": {
+"genericId": "11208007",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/3f/ae/3fae9d2b773947a5b6d96bbc1e9b7c64/1117693554A2_SW"
+},
+"productImages": [
+"tif/6c/77/6c775a6d516d413a919fdaf88ea63854/1117693554A2_38C_OM_F"
+],
+"swatchCount": "3",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$69.95"
+},
+{
+"id": "5000008072",
+"url": "/us/vs/bras-catalog/5000008072?choice=54A2&genericId=11191200&limit=100&resultPosition=21&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret Bare",
+"name": "Infinity Flex Bra",
+"rating": 3.64,
+"totalReviewCount": 198,
+"genericId": "11191200",
+"choiceValue": "54A2",
+"choice": {
+"genericId": "11191200",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/f8/64/f8647a203d9f45088b5b8c5a89aa895e/1119120054A2_SW"
+},
+"productImages": [
+"tif/bf/51/bf51357cbd56422fb54daaba301f6c2b/1119120054A2_36C_OM_F"
+],
+"swatchCount": "14",
+"itemLevelCallout": [
+"Available in cups B-G"
+],
+"price": "$44.95"
+},
+{
+"id": "5000000080",
+"url": "/us/vs/bras-catalog/5000000080?choice=3XY0&genericId=11205768&limit=100&resultPosition=22&searchBrand=vs&searchedFor=bra",
+"family": "Body by Victoria",
+"name": "Lightly Lined Strapless Bra",
+"rating": 4.07,
+"totalReviewCount": 74,
+"genericId": "11205768",
+"choiceValue": "3XY0",
+"choice": {
+"genericId": "11205768",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/d8/7c/d87cd586ed4b4719aca4bd009a7ee2a4/111894343XY0_SW"
+},
+"productImages": [
+"tif/d9/03/d90374aeb6df40a9a89543bde8a1e886/112057683XY0_OM_F"
+],
+"swatchCount": "4",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$49.95"
+},
+{
+"id": "5000000070",
+"url": "/us/vs/bras-catalog/5000000070?choice=54A2&genericId=11208001&limit=100&resultPosition=23&searchBrand=vs&searchedFor=bra",
+"family": "Very Sexy",
+"name": "Bombshell Add-2-Cups Push-Up Bra",
+"rating": 4.1,
+"totalReviewCount": 358,
+"genericId": "11208001",
+"choiceValue": "54A2",
+"choice": {
+"genericId": "11208001",
+"genericLabel": "generic label",
+"label": "label "
+},
+"productImages": [
+"tif/9c/72/9c72d7307bb94bbbb87f74bbd9325b18/1104850454A2_38C_OM_F"
+],
+"swatchCount": "4",
+"itemLevelCallout": [
+"Available in cups AA-DD"
+],
+"price": "$49.95"
+},
+{
+"id": "5000000070",
+"url": "/us/vs/bras-catalog/5000000070?choice=54A2&genericId=11207000&limit=100&resultPosition=24&searchBrand=vs&searchedFor=bra",
+"family": "Very Sexy",
+"name": "Bombshell Add-2-cups Shine Strap Push-Up Bra",
+"rating": 4.1,
+"totalReviewCount": 358,
+"genericId": "11207000",
+"choiceValue": "54A2",
+"choice": {
+"genericId": "11207000",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/a9/10/a910d5f8042a48f8922e4b79462a604d/392842JTX_SW"
+},
+"productImages": [
+"tif/25/6c/256c762d027c4789bb369a72e6fef67a/1117693354A2_38C_OM_F"
+],
+"swatchCount": "2",
+"itemLevelCallout": [
+"Available in cups AA-DD"
+],
+"price": "$69.95"
+},
+{
+"id": "5000000090",
+"url": "/us/vs/bras-catalog/5000000090?choice=59IG&genericId=11206995&limit=100&resultPosition=25&searchBrand=vs&searchedFor=bra",
+"family": "Very Sexy",
+"name": "Bombshell Add-2-Cups Push Up Strapless Bra",
+"rating": 3.51,
+"totalReviewCount": 63,
+"genericId": "11206995",
+"choiceValue": "59IG",
+"choice": {
+"genericId": "11206995",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/c7/6d/c76da09506b84f1f9b6aaed21064d83d/1118821959IG_SW"
+},
+"productImages": [
+"tif/37/05/370582c0e2e548dfaabe8e3e92cad9fa/1118821959IG_OM_F"
+],
+"swatchCount": "3",
+"itemLevelCallout": [
+"Available in cups AA-DD"
+],
+"price": "$54.95"
+},
+{
+"id": "5000008119",
+"url": "/us/vs/bras-catalog/5000008119?choice=54A2&genericId=11206518&limit=100&resultPosition=26&searchBrand=vs&searchedFor=bra",
+"family": "The T-shirt",
+"name": "Bombshell Push-Up T-Shirt Bra",
+"rating": 4,
+"totalReviewCount": 14,
+"genericId": "11206518",
+"choiceValue": "54A2",
+"choice": {
+"genericId": "11206518",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/e8/29/e8298087668d46409c15c3c3bf771563/1120651854A2_SW"
+},
+"productImages": [
+"tif/37/af/37af8555094747d78efcaa52bde6f291/1120651854A2_OM_F"
+],
+"swatchCount": "6",
+"itemLevelCallout": [
+"Available in cups AA-DD"
+],
+"price": "$49.95"
+},
+{
+"id": "5000006691",
+"url": "/us/vs/bras-catalog/5000006691?choice=95D1&genericId=11199096&limit=100&resultPosition=27&searchBrand=vs&searchedFor=bra",
+"family": "The T-shirt",
+"name": "Lightly-Lined Full Coverage Bra",
+"rating": 4.05,
+"totalReviewCount": 225,
+"genericId": "11199096",
+"choiceValue": "95D1",
+"choice": {
+"genericId": "11199096",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/b5/99/b599efb790f9412caebec1ae822faabd/1119909695D1_SW"
+},
+"productImages": [
+"tif/dc/5f/dc5fbbf6f96f47b9810fc6c2c463da2b/1119909695D1_OM_F"
+],
+"swatchCount": "2",
+"itemLevelCallout": [
+"Available in cups B-DDD"
+],
+"price": "$39.95"
+},
+{
+"id": "5000000002",
+"url": "/us/vs/bras-catalog/5000000002?choice=95D1&genericId=11188629&limit=100&resultPosition=28&searchBrand=vs&searchedFor=bra",
+"family": "Body by Victoria",
+"name": "Lightly Lined Full-Coverage Bra",
+"rating": 4.17,
+"totalReviewCount": 486,
+"genericId": "11188629",
+"choiceValue": "95D1",
+"choice": {
+"genericId": "11188629",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/23/4a/234a18a35efb473e8682cc0e10a28259/1118862995D1_SW"
+},
+"productImages": [
+"tif/f1/1f/f11f853675d54c4faca40015149e9788/1118862995D1_OM_F"
+],
+"swatchCount": "1",
+"itemLevelCallout": [
+"Available in cups B-G"
+],
+"price": "$49.95"
+},
+{
+"id": "5000000067",
+"url": "/us/vs/bras-catalog/5000000067?choice=5LOC&genericId=11173217&limit=100&resultPosition=29&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret",
+"name": "Sexy Tee Push-Up Bra",
+"rating": 3.98,
+"totalReviewCount": 489,
+"genericId": "11173217",
+"choiceValue": "5LOC",
+"choice": {
+"genericId": "11173217",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/be/33/be338ff41983460bbbf34ce4cd10841f/111732175LOC_SW"
+},
+"productImages": [
+"tif/56/b2/56b215e37dc54b96b075fe0a3cb59a44/111732175LOC_OM_F"
+],
+"swatchCount": "2",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$34.95",
+"salePrice": "$29.50"
+},
+{
+"id": "5000008682",
+"url": "/us/vs/bras-catalog/5000008682?choice=39H6&genericId=11206146&limit=100&resultPosition=30&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret Bare",
+"name": "Infinity Flex Full Coverage Bra",
+"rating": 3.56,
+"totalReviewCount": 36,
+"genericId": "11206146",
+"choiceValue": "39H6",
+"choice": {
+"genericId": "11206146",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/30/10/3010d62b03034dc19940dc45035933bd/1120614639H6_SW"
+},
+"productImages": [
+"tif/c0/92/c092274012d040b19a733d85f722bb88/1120614639H6_OM_F"
+],
+"swatchCount": "5",
+"itemLevelCallout": [
+"Available in cups B-G"
+],
+"price": "$44.95"
+},
+{
+"id": "5000000002",
+"url": "/us/vs/bras-catalog/5000000002?choice=11T1&genericId=11205776&limit=100&resultPosition=31&searchBrand=vs&searchedFor=bra",
+"family": "Body by Victoria",
+"name": "Lightly Lined Full-Coverage Bra",
+"rating": 4.17,
+"totalReviewCount": 486,
+"genericId": "11205776",
+"choiceValue": "11T1",
+"choice": {
+"genericId": "11205776",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/73/fc/73fce41e5026454faf5dd9d3813c7acd/1118862811T1_SW"
+},
+"productImages": [
+"tif/f9/67/f96725a29d1d47779dc647b277cb8260/1118862811T1_OM_F"
+],
+"swatchCount": "6",
+"itemLevelCallout": [
+"Available in cups B-G"
+],
+"price": "$54.95"
+},
+{
+"id": "5000004045",
+"url": "/us/vs/bras-catalog/5000004045?choice=54A2&genericId=11202309&limit=100&resultPosition=32&searchBrand=vs&searchedFor=bra",
+"family": "The T-shirt",
+"name": "Lightly-Lined Demi Bra",
+"rating": 4.13,
+"totalReviewCount": 193,
+"genericId": "11202309",
+"choiceValue": "54A2",
+"choice": {
+"genericId": "11202309",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/d7/97/d797e3971c044ecbb15b01fa43d85917/1120230954A2_SW"
+},
+"productImages": [
+"tif/d2/b7/d2b721653f23477a95fe66ba17d8d9f5/1120230954A2_OM_F"
+],
+"swatchCount": "2",
+"itemLevelCallout": [
+"Available in cups B-DDD"
+],
+"price": "$39.95"
+},
+{
+"id": "5000000067",
+"url": "/us/vs/bras-catalog/5000000067?choice=78B2&genericId=11200922&limit=100&resultPosition=33&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret",
+"name": "Sexy Tee Lace Push-Up Bra",
+"rating": 3.98,
+"totalReviewCount": 489,
+"genericId": "11200922",
+"choiceValue": "78B2",
+"choice": {
+"genericId": "11200922",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/b3/54/b354495d714c4d018bdaf3222ceaf904/1120092278B2_SW"
+},
+"productImages": [
+"tif/49/a4/49a41e3874b947a4ad339b3e630b9aad/1120092278B2_34DD_OM_F"
+],
+"swatchCount": "2",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$39.95",
+"salePrice": "$29.50"
+},
+{
+"id": "5000005885",
+"url": "/us/vs/bras-catalog/5000005885?choice=39H6&genericId=11150817&limit=100&resultPosition=34&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret Bare",
+"name": "Sexy Illusions Lightly-Lined Strapless Bra",
+"rating": 3.87,
+"totalReviewCount": 55,
+"genericId": "11150817",
+"choiceValue": "39H6",
+"choice": {
+"genericId": "11150817",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/73/34/7334a19354984924bb745cc07b8417e2/393754M58_SW"
+},
+"productImages": [
+"tif/f1/0c/f10ca243df4e457687d7f2b85af8d1c6/1115081739H6_OM_F"
+],
+"swatchCount": "6",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$49.95"
+},
+{
+"id": "5000000002",
+"url": "/us/vs/bras-catalog/5000000002?choice=54A2&genericId=11205773&limit=100&resultPosition=35&searchBrand=vs&searchedFor=bra",
+"family": "Body by Victoria",
+"name": "Lightly Lined Full-Coverage Lace Racerback Bra",
+"rating": 4.17,
+"totalReviewCount": 486,
+"genericId": "11205773",
+"choiceValue": "54A2",
+"choice": {
+"genericId": "11205773",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/7d/ea/7deaa013b8c744c1bde72499a2b79b7e/1119275054A2_SW"
+},
+"productImages": [
+"tif/2e/d7/2ed7d83cde1a4cb9902ff1d57748d06b/1120577354A2_OM_F"
+],
+"swatchCount": "1",
+"itemLevelCallout": [
+"Available in cups B-G"
+],
+"price": "$54.95"
+},
+{
+"id": "5000000067",
+"url": "/us/vs/bras-catalog/5000000067?choice=5OTW&genericId=11188851&limit=100&resultPosition=36&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret",
+"name": "Sexy Tee Push-Up Bra",
+"rating": 3.98,
+"totalReviewCount": 489,
+"genericId": "11188851",
+"choiceValue": "5OTW",
+"choice": {
+"genericId": "11188851",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/11/98/119864303ac54555b97edde811ed8be4/111888515OTW_SW"
+},
+"productImages": [
+"tif/ce/2e/ce2eb480fc6a4d12b53ab9f363bdd82c/111888515OTW_OM_F"
+],
+"swatchCount": "3",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$34.95",
+"salePrice": "$29.50"
+},
+{
+"id": "5000008438",
+"url": "/us/vs/bras-catalog/5000008438?choice=54A2&genericId=11206052&limit=100&resultPosition=37&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret",
+"name": "Lacie Bralette",
+"rating": 4.05,
+"totalReviewCount": 74,
+"genericId": "11206052",
+"choiceValue": "54A2",
+"choice": {
+"genericId": "11206052",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/1d/19/1d19543ccdeb490b92c7a08a3f21b1e6/1120605254A2_SW"
+},
+"productImages": [
+"tif/90/96/9096ba25abfb4764800d2d53d0854fc7/1120605254A2_OM_F"
+],
+"swatchCount": "4",
+"itemLevelCallout": [
+"Available in XXS-XXL and Curvy XS-Curvy XXL"
+],
+"price": "$24.95"
+},
+{
+"id": "5000000066",
+"url": "/us/vs/bras-catalog/5000000066?choice=5KTG&genericId=11206054&limit=100&resultPosition=38&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret",
+"name": "Sexy Tee Lace Lightly Lined Demi Bra",
+"rating": 4,
+"totalReviewCount": 337,
+"genericId": "11206054",
+"choiceValue": "5KTG",
+"choice": {
+"genericId": "11206054",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/d8/2b/d82b1318fc2747c7a178880aa4ff73cd/112060545KTG_SW"
+},
+"productImages": [
+"tif/e4/61/e461266916f84c8b8f97513aa82c834d/112060545KTG_OM_F"
+],
+"swatchCount": "3",
+"itemLevelCallout": [
+"Available in cups B-DDD"
+],
+"price": "$39.95",
+"salePrice": "$29.50"
+},
+{
+"id": "5000000002",
+"url": "/us/vs/bras-catalog/5000000002?choice=4YLO&genericId=11205775&limit=100&resultPosition=39&searchBrand=vs&searchedFor=bra",
+"family": "Body by Victoria",
+"name": "Lightly Lined Full-Coverage Bra",
+"rating": 4.17,
+"totalReviewCount": 486,
+"genericId": "11205775",
+"choiceValue": "4YLO",
+"choice": {
+"genericId": "11205775",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/dd/00/dd0022f1f8d0470a903850871909ddf1/111886274YLO_SW"
+},
+"productImages": [
+"tif/97/66/9766e337948c443f93be35c18b645333/111886274YLO_36C_OM_F"
+],
+"swatchCount": "1",
+"itemLevelCallout": [
+"Available in cups B-G"
+],
+"price": "$54.95"
+},
+{
+"id": "5000000070",
+"url": "/us/vs/bras-catalog/5000000070?choice=86Q4&genericId=11206998&limit=100&resultPosition=40&searchBrand=vs&searchedFor=bra",
+"family": "Very Sexy",
+"name": "Bombshell Add-2-Cups Lace Shine Strap Push-Up Bra",
+"rating": 4.1,
+"totalReviewCount": 358,
+"genericId": "11206998",
+"choiceValue": "86Q4",
+"choice": {
+"genericId": "11206998",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/47/fd/47fd4dfed55f483babaa7d1568696a0a/1118554186Q4_SW"
+},
+"productImages": [
+"tif/1a/fe/1afe90c51abb42ecbdd5398f2a4642fa/1118554186Q4_38C_OM_F"
+],
+"swatchCount": "3",
+"itemLevelCallout": [
+"Available in cups AA-DD"
+],
+"price": "$69.95"
+},
+{
+"id": "5000000002",
+"url": "/us/vs/bras-catalog/5000000002?choice=5KUS&genericId=11205771&limit=100&resultPosition=41&searchBrand=vs&searchedFor=bra",
+"family": "Body by Victoria",
+"name": "Lightly Lined Full Coverage Bra in Lace Detail",
+"rating": 4.17,
+"totalReviewCount": 486,
+"genericId": "11205771",
+"choiceValue": "5KUS",
+"choice": {
+"genericId": "11205771",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/f9/e1/f9e12455362144ad9cff7a5d941c5e54/112057715KUS_SW"
+},
+"productImages": [
+"tif/27/d5/27d58407ae7e4d5bbb3fec362c3cfc72/112057715KUS_OM_F"
+],
+"swatchCount": "1",
+"itemLevelCallout": [
+"Available in cups B-G"
+],
+"price": "$54.95"
+},
+{
+"id": "5000000046",
+"url": "/us/vs/bras-catalog/5000000046?choice=65H8&genericId=11208002&limit=100&resultPosition=42&searchBrand=vs&searchedFor=bra",
+"family": "Very Sexy",
+"name": "Push-Up Strapless Bra",
+"rating": 4.08,
+"totalReviewCount": 48,
+"genericId": "11208002",
+"choiceValue": "65H8",
+"choice": {
+"genericId": "11208002",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/f7/72/f772ffc50f7e4e09bc4e68c363496042/1120800265H8_SW"
+},
+"productImages": [
+"tif/b1/fd/b1fd5354d5df446f934140eae70d9000/1120800265H8_OM_F"
+],
+"swatchCount": "3",
+"itemLevelCallout": [
+"Available in cups A-DD"
+],
+"price": "$54.95"
+},
+{
+"id": "5000000066",
+"url": "/us/vs/bras-catalog/5000000066?choice=95D1&genericId=11200784&limit=100&resultPosition=43&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret",
+"name": "Sexy Tee Lightly-Lined Demi Bra in Eyelet Lace",
+"rating": 4,
+"totalReviewCount": 337,
+"genericId": "11200784",
+"choiceValue": "95D1",
+"choice": {
+"genericId": "11200784",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/e1/49/e149b43c214c427b98939604768f12df/1120078495D1_SW"
+},
+"productImages": [
+"tif/a2/e4/a2e49eb63e094fd5b9e158bf4269e635/1120078495D1_OM_F"
+],
+"swatchCount": "3",
+"itemLevelCallout": [
+"Available in cups B-DDD"
+],
+"price": "$39.95",
+"salePrice": "$29.50"
+},
+{
+"id": "5000005702",
+"url": "/us/vs/bras-catalog/5000005702?choice=28P7&genericId=11202312&limit=100&resultPosition=44&searchBrand=vs&searchedFor=bra",
+"family": "The T-shirt",
+"name": "Lightly-Lined Wireless Bra",
+"rating": 3.97,
+"totalReviewCount": 315,
+"genericId": "11202312",
+"choiceValue": "28P7",
+"choice": {
+"genericId": "11202312",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/32/3d/323dee2c00e44eb686fb2ebc24db420d/1120231228P7_SW"
+},
+"productImages": [
+"tif/69/a1/69a156e2f6f04555a7babc44e32584bc/1120231228P7_OM_F"
+],
+"swatchCount": "6",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$39.95"
+},
+{
+"id": "5000008595",
+"url": "/us/vs/bras-catalog/5000008595?choice=54A2&genericId=11182411&limit=100&resultPosition=45&searchBrand=vs&searchedFor=bra",
+"family": "Very Sexy",
+"name": "The Fabulous Full Cup Bra",
+"rating": 4.49,
+"totalReviewCount": 49,
+"genericId": "11182411",
+"choiceValue": "54A2",
+"choice": {
+"genericId": "11182411",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/b9/c4/b9c4e38a28254b55ae91a7d3940a976d/1118241154A2_SW"
+},
+"productImages": [
+"tif/9e/14/9e14304ae7304f6887e92d7e4ca8933d/1118241154A2_OM_F"
+],
+"swatchCount": "3",
+"price": "$69.95"
+},
+{
+"id": "5000000067",
+"url": "/us/vs/bras-catalog/5000000067?choice=0RI2&genericId=11206434&limit=100&resultPosition=46&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret",
+"name": "Sexy Tee Lace Push-Up Bra",
+"rating": 3.98,
+"totalReviewCount": 489,
+"genericId": "11206434",
+"choiceValue": "0RI2",
+"choice": {
+"genericId": "11206434",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/e6/00/e6006011ba3e4cbd8094bebea5d79124/112064340RI2_SW"
+},
+"productImages": [
+"tif/45/5e/455ec43b224448f3964c9225cafbac5a/112064340RI2_OM_F"
+],
+"swatchCount": "3",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$39.95",
+"salePrice": "$29.50"
+},
+{
+"id": "5000008148",
+"url": "/us/vs/bras-catalog/5000008148?choice=54A2&genericId=11185623&limit=100&resultPosition=47&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret",
+"name": "Lounge Unlined Scoop Bra",
+"rating": 4.21,
+"totalReviewCount": 167,
+"genericId": "11185623",
+"choiceValue": "54A2",
+"choice": {
+"genericId": "11185623",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/34/de/34de2ac96e4945398b8b026346e7c04f/1118562354A2_SW"
+},
+"productImages": [
+"tif/9f/d3/9fd34de7731a4580bd806007b43df393/1118562354A2_OM_F"
+],
+"swatchCount": "4",
+"itemLevelCallout": [
+"Available in XS-XL"
+],
+"price": "$34.50",
+"salePrice": "$29.50"
+},
+{
+"id": "5000000002",
+"url": "/us/vs/bras-catalog/5000000002?choice=5G12&genericId=11205774&limit=100&resultPosition=48&searchBrand=vs&searchedFor=bra",
+"family": "Body by Victoria",
+"name": "Lightly-Lined Full Coverage Bra in Lace Detail",
+"rating": 4.17,
+"totalReviewCount": 486,
+"genericId": "11205774",
+"choiceValue": "5G12",
+"choice": {
+"genericId": "11205774",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/57/01/57014c94fbd64c60923475fd6dc864d2/111894395G12_SW"
+},
+"productImages": [
+"tif/b0/61/b0610ab14e8d4fabbdbc41dd5b1c3542/112057745G12_OM_F"
+],
+"swatchCount": "1",
+"itemLevelCallout": [
+"Available in cups B-G"
+],
+"price": "$54.95"
+},
+{
+"id": "5000005210",
+"url": "/us/vs/bras-catalog/5000005210?choice=2HMN&genericId=11198966&limit=100&resultPosition=49&searchBrand=vs&searchedFor=bra",
+"family": "Dream Angels",
+"name": "Wicked Unlined Ribbon Slot Balconette Bra",
+"rating": 4.48,
+"totalReviewCount": 223,
+"genericId": "11198966",
+"choiceValue": "2HMN",
+"choice": {
+"genericId": "11198966",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/db/ff/dbffe40a123548738f50d29f1c3a687b/111989662HMN_SW"
+},
+"productImages": [
+"tif/13/58/1358034e5e7d4681be060cfffbe9e524/111989662HMN_OM_F"
+],
+"swatchCount": "4",
+"itemLevelCallout": [
+"Available in cups A-G"
+],
+"price": "$49.95"
+},
+{
+"id": "5000008465",
+"url": "/us/vs/bras-catalog/5000008465?choice=4U16&genericId=11200760&limit=100&resultPosition=50&searchBrand=vs&searchedFor=bra",
+"family": "Love Cloud",
+"name": "Smooth Straight-Neck Lounge Bra",
+"rating": 4.46,
+"totalReviewCount": 132,
+"genericId": "11200760",
+"choiceValue": "4U16",
+"choice": {
+"genericId": "11200760",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/ee/d7/eed7fe213f884d7791936c440a7aaa84/112007604U16_SW"
+},
+"productImages": [
+"tif/a3/27/a327bd6401344d0cbbd0713c8ed89405/112007604U16_OM_F"
+],
+"swatchCount": "6",
+"itemLevelCallout": [
+"Available in XS-XL and Small DD-Large DD"
+],
+"price": "$39.95"
+},
+{
+"id": "5000005702",
+"url": "/us/vs/bras-catalog/5000005702?choice=1NG0&genericId=11202601&limit=100&resultPosition=51&searchBrand=vs&searchedFor=bra",
+"family": "The T-shirt",
+"name": "Lightly-Lined Wireless Bra",
+"rating": 3.97,
+"totalReviewCount": 315,
+"genericId": "11202601",
+"choiceValue": "1NG0",
+"choice": {
+"genericId": "11202601",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/ff/0c/ff0c03e61ee74d6194b2528aeccaaadb/112026011NG0_SW"
+},
+"productImages": [
+"tif/09/e2/09e2e75314c14678a011ad0e63e18021/112026011NG0_OM_F"
+],
+"swatchCount": "2",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$39.95"
+},
+{
+"id": "5000008467",
+"url": "/us/vs/bras-catalog/5000008467?choice=28P7&genericId=11200758&limit=100&resultPosition=52&searchBrand=vs&searchedFor=bra",
+"family": "Love Cloud",
+"name": "Lace Half-Pad Plunge Bra",
+"rating": 4.18,
+"totalReviewCount": 76,
+"genericId": "11200758",
+"choiceValue": "28P7",
+"choice": {
+"genericId": "11200758",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/5c/02/5c026f0a298342709df2f90898835703/1120075828P7_SW"
+},
+"productImages": [
+"tif/b7/ef/b7ef7cd37af74da1a8b4432936402d2c/1120075828P7_OM_F"
+],
+"swatchCount": "5",
+"itemLevelCallout": [
+"Available in cups B-DDD"
+],
+"price": "$54.95"
+},
+{
+"id": "5000000067",
+"url": "/us/vs/bras-catalog/5000000067?choice=5PCK&genericId=11210825&limit=100&resultPosition=53&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret",
+"name": "Sexy Tee Lace Push-Up Bra",
+"rating": 3.98,
+"totalReviewCount": 489,
+"genericId": "11210825",
+"choiceValue": "5PCK",
+"choice": {
+"genericId": "11210825",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/22/fc/22fc527063764be9883e8723e7506799/112108255PCK_SW"
+},
+"productImages": [
+"tif/1f/bc/1fbc1508f2b1474fa9e0bda477fea503/112108255PCK_OM_F"
+],
+"swatchCount": "3",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$39.95",
+"salePrice": "$29.50"
+},
+{
+"id": "5000000066",
+"url": "/us/vs/bras-catalog/5000000066?choice=5BRC&genericId=11173214&limit=100&resultPosition=54&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret",
+"name": "Sexy Tee Lightly-Lined Demi Bra",
+"rating": 4,
+"totalReviewCount": 337,
+"genericId": "11173214",
+"choiceValue": "5BRC",
+"choice": {
+"genericId": "11173214",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/fc/bd/fcbd297befc04cf3841d05191628a2f5/111732145BRC_SW"
+},
+"productImages": [
+"tif/ac/76/ac768d32905b4a9ca3a5e24bef2ee247/111732145BRC_34DD_OM_F"
+],
+"swatchCount": "3",
+"itemLevelCallout": [
+"Available in cups B-DDD"
+],
+"price": "$34.95",
+"salePrice": "$29.50"
+},
+{
+"id": "5000004202",
+"url": "/us/vs/bras-catalog/5000004202?choice=54A2&genericId=11202302&limit=100&resultPosition=55&searchBrand=vs&searchedFor=bra",
+"family": "The T-shirt",
+"name": "Push-Up Perfect Shape Bra",
+"rating": 4.32,
+"totalReviewCount": 173,
+"genericId": "11202302",
+"choiceValue": "54A2",
+"choice": {
+"genericId": "11202302",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/ec/a9/eca9b33ce88d4a9a9f7318439f2b5fdc/1120230254A2_SW"
+},
+"productImages": [
+"tif/2f/23/2f230d4d68364cae8202aa7867250c08/1120230254A2_OM_F"
+],
+"swatchCount": "5",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$39.95"
+},
+{
+"id": "5000004202",
+"url": "/us/vs/bras-catalog/5000004202?choice=54A2&genericId=11199100&limit=100&resultPosition=56&searchBrand=vs&searchedFor=bra",
+"family": "The T-shirt",
+"name": "Push-Up Perfect Shape Bra",
+"rating": 4.32,
+"totalReviewCount": 173,
+"genericId": "11199100",
+"choiceValue": "54A2",
+"choice": {
+"genericId": "11199100",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/38/e1/38e17d88a3e04e90a58cb93f8fbfd4db/1119910054A2_SW"
+},
+"productImages": [
+"tif/a3/b8/a3b8df2d73fe4042a03369efd7de3781/1119910054A2_OM_F"
+],
+"swatchCount": "3",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$39.95"
+},
+{
+"id": "5000004202",
+"url": "/us/vs/bras-catalog/5000004202?choice=5I4Q&genericId=11202303&limit=100&resultPosition=57&searchBrand=vs&searchedFor=bra",
+"family": "The T-shirt",
+"name": "Push-Up Perfect Shape Bra",
+"rating": 4.32,
+"totalReviewCount": 173,
+"genericId": "11202303",
+"choiceValue": "5I4Q",
+"choice": {
+"genericId": "11202303",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/9e/c9/9ec9952433aa4ffe9a574f19a61e6adc/112023035I4Q_SW"
+},
+"productImages": [
+"tif/28/a2/28a2fb8bc3974f38b2f91e2e5cea1c2f/112023035I4Q_OM_F"
+],
+"swatchCount": "3",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$39.95"
+},
+{
+"id": "5000000066",
+"url": "/us/vs/bras-catalog/5000000066?choice=54A2&genericId=11200916&limit=100&resultPosition=58&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret",
+"name": "Sexy Tee Lace Lightly-Lined Triangle Demi Bra",
+"rating": 4,
+"totalReviewCount": 337,
+"genericId": "11200916",
+"choiceValue": "54A2",
+"choice": {
+"genericId": "11200916",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/fe/57/fe572f8eaa5a4a9687e5ee063452d68b/1120091654A2_SW"
+},
+"productImages": [
+"tif/d7/09/d709786c91d54d07aa5ad4e2537376fc/1120091654A2_OM_F"
+],
+"swatchCount": "1",
+"itemLevelCallout": [
+"Available in cups B-DDD"
+],
+"price": "$39.95",
+"salePrice": "$29.50"
+},
+{
+"id": "5000000066",
+"url": "/us/vs/bras-catalog/5000000066?choice=2Y3B&genericId=11206053&limit=100&resultPosition=59&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret",
+"name": "Sexy Tee Lightly Lined Racerback Demi Bra",
+"rating": 4,
+"totalReviewCount": 337,
+"genericId": "11206053",
+"choiceValue": "2Y3B",
+"choice": {
+"genericId": "11206053",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/f7/dd/f7dd41b02572433482042a1a92cfdcbc/112060532Y3B_SW"
+},
+"productImages": [
+"tif/fc/a9/fca98db211904e9aad83b068d67ad744/112060532Y3B_OM_F"
+],
+"swatchCount": "3",
+"itemLevelCallout": [
+"Available in cups B-DDD"
+],
+"price": "$39.95",
+"salePrice": "$29.50"
+},
+{
+"id": "5000004528",
+"url": "/us/vs/bras-catalog/5000004528?choice=65H8&genericId=11206994&limit=100&resultPosition=60&searchBrand=vs&searchedFor=bra",
+"family": "Very Sexy",
+"name": "So Obsessed Push-Up Bra",
+"rating": 4.56,
+"totalReviewCount": 91,
+"genericId": "11206994",
+"choiceValue": "65H8",
+"choice": {
+"genericId": "11206994",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/73/1b/731ba9bfc995493d99f01f5dc782b54a/1118438365H8_SW"
+},
+"productImages": [
+"tif/49/19/4919261fd3dc4995a089a0f863dd9908/1118438365H8_OM_F"
+],
+"swatchCount": "4",
+"itemLevelCallout": [
+"Available in cups AA-DD"
+],
+"price": "$49.95"
+},
+{
+"id": "5000005702",
+"url": "/us/vs/bras-catalog/5000005702?choice=3QXA&genericId=11202311&limit=100&resultPosition=61&searchBrand=vs&searchedFor=bra",
+"family": "The T-shirt",
+"name": "Lightly-Lined Wireless Bra",
+"rating": 3.97,
+"totalReviewCount": 315,
+"genericId": "11202311",
+"choiceValue": "3QXA",
+"choice": {
+"genericId": "11202311",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/7e/65/7e65eeed05de4674a8665bd3affbc52a/112023113QXA_SW"
+},
+"productImages": [
+"tif/56/37/5637bf34384f4853a03fdfab52e75c4a/112023113QXA_OM_F"
+],
+"swatchCount": "4",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$39.95"
+},
+{
+"id": "5000000067",
+"url": "/us/vs/bras-catalog/5000000067?choice=5CQ6&genericId=11207527&limit=100&resultPosition=62&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret",
+"name": "Sexy Tee Lace Push-Up Front Close Bra",
+"rating": 3.98,
+"totalReviewCount": 489,
+"genericId": "11207527",
+"choiceValue": "5CQ6",
+"choice": {
+"genericId": "11207527",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/6e/11/6e1148b643a446789db6e24ed3e93052/112075275CQ6_SW"
+},
+"productImages": [
+"tif/86/3c/863c0806d967412d8f22409a141ea9c7/112075275CQ6_OM_F"
+],
+"swatchCount": "1",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$39.95",
+"salePrice": "$29.50"
+},
+{
+"id": "5000000066",
+"url": "/us/vs/bras-catalog/5000000066?choice=5OU0&genericId=11200913&limit=100&resultPosition=63&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret",
+"name": "Sexy Tee Lightly-Lined Contrast Strap Demi Bra",
+"rating": 4,
+"totalReviewCount": 337,
+"genericId": "11200913",
+"choiceValue": "5OU0",
+"choice": {
+"genericId": "11200913",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/4f/91/4f9146f6f02d4471a641cfbbf8eaa20a/112009135OU0_SW"
+},
+"productImages": [
+"tif/87/2e/872e5e2d56934a919a4f017e7f3b3c71/112009135OU0_OM_F"
+],
+"swatchCount": "3",
+"itemLevelCallout": [
+"Available in cups B-DDD"
+],
+"price": "$34.95",
+"salePrice": "$29.50"
+},
+{
+"id": "5000006691",
+"url": "/us/vs/bras-catalog/5000006691?choice=5CM6&genericId=11206520&limit=100&resultPosition=64&searchBrand=vs&searchedFor=bra",
+"family": "The T-shirt",
+"name": "Lightly Lined Full Coverage Bra",
+"rating": 4.05,
+"totalReviewCount": 225,
+"genericId": "11206520",
+"choiceValue": "5CM6",
+"choice": {
+"genericId": "11206520",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/38/1c/381c6537a62c4f359229d9b8bf2245d8/112065205CM6_SW"
+},
+"productImages": [
+"tif/71/d9/71d945d4d7964ae7a66c1da90ea29d18/112065205CM6_OM_F"
+],
+"swatchCount": "2",
+"itemLevelCallout": [
+"Available in cups B-DDD"
+],
+"price": "$39.95"
+},
+{
+"id": "5000005161",
+"url": "/us/pink/bras-catalog/5000005161?choice=2ZUO&genericId=11202804&limit=100&resultPosition=65&searchBrand=vs&searchedFor=bra",
+"family": "PINK",
+"name": "Wear Everywhere T-Shirt Lightly Lined Bra",
+"rating": 4.26,
+"totalReviewCount": 407,
+"genericId": "11202804",
+"choiceValue": "2ZUO",
+"choice": {
+"genericId": "11202804",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/de/1e/de1ee011aee343c693317b172889df68/112028042ZUO_SW"
+},
+"productImages": [
+"tif/69/ea/69ea044ebd834b77b520c41a0d7936c0/111518552ZUO_OM_S"
+],
+"swatchCount": "18",
+"itemLevelCallout": [
+"Available in cups AA-DDD"
+],
+"price": "$36.95",
+"altPrices": [
+"any 2/$56"
+]
+},
+{
+"id": "5000008787",
+"url": "/us/vs/bras-catalog/5000008787?choice=3XY0&genericId=11210995&limit=100&resultPosition=66&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret Bare",
+"name": "Invisible Solutions Plunge Bra",
+"rating": 4.29,
+"totalReviewCount": 7,
+"genericId": "11210995",
+"choiceValue": "3XY0",
+"choice": {
+"genericId": "11210995",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/d6/32/d632aedcd0ee4602be32a5deca90173a/112109953XY0_SW"
+},
+"productImages": [
+"tif/2c/75/2c75f4c1b855416880463e42df2a422a/112109953XY0_OM_F"
+],
+"swatchCount": "3",
+"itemLevelCallout": [
+"Available in cups B-G"
+],
+"price": "$44.95"
+},
+{
+"id": "5000004528",
+"url": "/us/vs/bras-catalog/5000004528?choice=54A2&genericId=11184383&limit=100&resultPosition=67&searchBrand=vs&searchedFor=bra",
+"family": "Very Sexy",
+"name": "So Obsessed Push-Up Bra",
+"rating": 4.56,
+"totalReviewCount": 91,
+"genericId": "11184383",
+"choiceValue": "54A2",
+"choice": {
+"genericId": "11184383",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/fa/ec/faece6c2b50043d1a3bb65d1de64b4da/1118438354A2_SW"
+},
+"productImages": [
+"tif/fb/92/fb9258750e984dd6925c331e456f0ada/1118438354A2_OM_F"
+],
+"swatchCount": "3",
+"itemLevelCallout": [
+"Available in cups AA-DD"
+],
+"price": "$49.95"
+},
+{
+"id": "5000000084",
+"url": "/us/pink/bras-catalog/5000000084?choice=2ZUO&genericId=11201690&limit=100&resultPosition=68&searchBrand=vs&searchedFor=bra",
+"family": "PINK",
+"name": "Wear Everywhere Push-Up Bra",
+"rating": 4.05,
+"totalReviewCount": 296,
+"genericId": "11201690",
+"choiceValue": "2ZUO",
+"choice": {
+"genericId": "11201690",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/4e/3f/4e3f5c3016af40e2991e257bbf9111a4/112016902ZUO_SW"
+},
+"productImages": [
+"tif/28/cd/28cd3dcf3c734757aa3783d1bc1c65d1/111501752ZUO_OM_F"
+],
+"swatchCount": "21",
+"itemLevelCallout": [
+"Available in cups AA-DD<br />\n&#160;"
+],
+"price": "$36.95",
+"altPrices": [
+"any 2/$56"
+]
+},
+{
+"id": "5000005702",
+"url": "/us/vs/bras-catalog/5000005702?choice=5CM6&genericId=11206524&limit=100&resultPosition=69&searchBrand=vs&searchedFor=bra",
+"family": "The T-shirt",
+"name": "Stretch Cotton Lightly Lined Wireless Bra",
+"rating": 3.97,
+"totalReviewCount": 315,
+"genericId": "11206524",
+"choiceValue": "5CM6",
+"choice": {
+"genericId": "11206524",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/ae/5d/ae5d9968ada34bdf8125bc405a9c7dda/112065245CM6_SW"
+},
+"productImages": [
+"tif/a9/8c/a98c1a769ef34ae99c98d2fb3bedd172/112065245CM6_OM_F"
+],
+"swatchCount": "2",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$39.95"
+},
+{
+"id": "5000006691",
+"url": "/us/vs/bras-catalog/5000006691?choice=02P0&genericId=11212006&limit=100&resultPosition=70&searchBrand=vs&searchedFor=bra",
+"family": "The T-shirt",
+"name": "Lightly Lined Full Coverage Bra",
+"rating": 4.05,
+"totalReviewCount": 225,
+"genericId": "11212006",
+"choiceValue": "02P0",
+"choice": {
+"genericId": "11212006",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/c6/c6/c6c6d4d221aa4953809fc6606ba66e31/1121200602P0_SW"
+},
+"productImages": [
+"tif/5c/e7/5ce71c8c3cae49af905164db9e79a38a/1121200602P0_OM_F"
+],
+"swatchCount": "2",
+"itemLevelCallout": [
+"Available in cups B-DDD"
+],
+"price": "$39.95"
+},
+{
+"id": "5000000067",
+"url": "/us/vs/bras-catalog/5000000067?choice=08P1&genericId=11200923&limit=100&resultPosition=71&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret",
+"name": "Sexy Tee Lace Push-Up T-Back Bra",
+"rating": 3.98,
+"totalReviewCount": 489,
+"genericId": "11200923",
+"choiceValue": "08P1",
+"choice": {
+"genericId": "11200923",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/d9/07/d9073b05601d4edfa4ad92e190e65e21/1120092308P1_SW"
+},
+"productImages": [
+"tif/e9/5f/e95f12bd469048cc8d94d698c74e0b9f/1120092308P1_OM_F"
+],
+"swatchCount": "3",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$39.95",
+"salePrice": "$29.50"
+},
+{
+"id": "5000005972",
+"url": "/us/vs/bras-catalog/5000005972?choice=54A2&genericId=11171904&limit=100&resultPosition=72&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret Bare",
+"name": "Angelight Full-Coverage Bra",
+"rating": 4.44,
+"totalReviewCount": 86,
+"genericId": "11171904",
+"choiceValue": "54A2",
+"choice": {
+"genericId": "11171904",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/09/6a/096ab9a9fac54718814d65e2ec483266/406187NBH_SW"
+},
+"productImages": [
+"tif/32/66/32661ec17c3644aaa0865ea8969fd288/406187NBH_OM_F"
+],
+"swatchCount": "4",
+"itemLevelCallout": [
+"Available in cups B-DDD"
+],
+"price": "$49.95",
+"salePrice": "$39.95"
+},
+{
+"id": "5000007561",
+"url": "/us/vs/bras-catalog/5000007561?choice=54A2&genericId=11167678&limit=100&resultPosition=73&searchBrand=vs&searchedFor=bra",
+"family": "Very Sexy",
+"name": "Strappy Open Cup Demi Bra",
+"rating": 3.55,
+"totalReviewCount": 87,
+"genericId": "11167678",
+"choiceValue": "54A2",
+"choice": {
+"genericId": "11167678",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/fc/6e/fc6ee16180884613b3aa88d5128039b3/404252DXF_SW"
+},
+"productImages": [
+"tif/14/63/1463ff4868234df2ac514780969d3ea4/404252DXF_OM_F"
+],
+"swatchCount": "2",
+"isClearance": true,
+"itemLevelCallout": [
+"Available in cups B-G"
+],
+"price": "$79.95",
+"salePrice": "$18.99"
+},
+{
+"id": "5000005702",
+"url": "/us/vs/bras-catalog/5000005702?choice=2Y3B&genericId=11212011&limit=100&resultPosition=74&searchBrand=vs&searchedFor=bra",
+"family": "The T-shirt",
+"name": "Lightly Lined Wireless Bra",
+"rating": 3.97,
+"totalReviewCount": 315,
+"genericId": "11212011",
+"choiceValue": "2Y3B",
+"choice": {
+"genericId": "11212011",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/c3/e4/c3e4ab5fabe048c99c4461f13ca9f554/112120112Y3B_SW"
+},
+"productImages": [
+"tif/eb/78/eb78421dc1b344b8a1c7439b928be470/112120112Y3B_OM_F"
+],
+"swatchCount": "2",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$39.95"
+},
+{
+"id": "5000004202",
+"url": "/us/vs/bras-catalog/5000004202?choice=5CMW&genericId=11206521&limit=100&resultPosition=75&searchBrand=vs&searchedFor=bra",
+"family": "The T-shirt",
+"name": "Push-Up Perfect Shape Bra",
+"rating": 4.32,
+"totalReviewCount": 173,
+"genericId": "11206521",
+"choiceValue": "5CMW",
+"choice": {
+"genericId": "11206521",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/3f/0c/3f0cb9808bf940c0be5a104fd175e13b/112065215CMW_SW"
+},
+"productImages": [
+"tif/ee/d6/eed6583a85d74c998342d38d8d55da0d/112065215CMW_OM_F"
+],
+"swatchCount": "2",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$39.95"
+},
+{
+"id": "5000008889",
+"url": "/us/vs/bras-catalog/5000008889?choice=4YLO&genericId=11199277&limit=100&resultPosition=76&searchBrand=vs&searchedFor=bra",
+"family": "Body by Victoria",
+"name": "The Fabulous Full Cup Lace Bra",
+"rating": 4.3,
+"totalReviewCount": 73,
+"genericId": "11199277",
+"choiceValue": "4YLO",
+"choice": {
+"genericId": "11199277",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/5d/76/5d76ffaafdb04a2087b8a3a988c1b630/111992774YLO_SW"
+},
+"productImages": [
+"tif/1d/be/1dbe51183a37416693ca75f3a9164307/111992774YLO_OM_F"
+],
+"swatchCount": "2",
+"itemLevelCallout": [
+"Available in cups C-G"
+],
+"price": "$44.95"
+},
+{
+"id": "5000006691",
+"url": "/us/vs/bras-catalog/5000006691?choice=5I4Q&genericId=11199098&limit=100&resultPosition=77&searchBrand=vs&searchedFor=bra",
+"family": "The T-shirt",
+"name": "Lightly-Lined Full Coverage Bra",
+"rating": 4.05,
+"totalReviewCount": 225,
+"genericId": "11199098",
+"choiceValue": "5I4Q",
+"choice": {
+"genericId": "11199098",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/ac/23/ac2373da29e64224ab513d5e6818df44/111990985I4Q_SW"
+},
+"productImages": [
+"tif/03/ba/03ba010752f640389d364a1379532dd1/111990985I4Q_OM_F"
+],
+"swatchCount": "2",
+"itemLevelCallout": [
+"Available in cups B-DDD"
+],
+"price": "$39.95"
+},
+{
+"id": "5000000067",
+"url": "/us/vs/bras-catalog/5000000067?choice=5KTG&genericId=11206056&limit=100&resultPosition=78&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret",
+"name": "Sexy Tee Lace Push-Up Bra",
+"rating": 3.98,
+"totalReviewCount": 489,
+"genericId": "11206056",
+"choiceValue": "5KTG",
+"choice": {
+"genericId": "11206056",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/4f/59/4f593ffdced943b2b23408be1a1335ab/112060565KTG_SW"
+},
+"productImages": [
+"tif/27/c4/27c4516ff8084e4e99cc9d29ea9f15e8/112060565KTG_OM_F"
+],
+"swatchCount": "1",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$39.95",
+"salePrice": "$29.50"
+},
+{
+"id": "5000008889",
+"url": "/us/vs/bras-catalog/5000008889?choice=54A2&genericId=11199275&limit=100&resultPosition=79&searchBrand=vs&searchedFor=bra",
+"family": "Body by Victoria",
+"name": "The Fabulous Full Cup Lace Bra",
+"rating": 4.3,
+"totalReviewCount": 73,
+"genericId": "11199275",
+"choiceValue": "54A2",
+"choice": {
+"genericId": "11199275",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/3a/f8/3af88e39cb644a6dbbb0e05a2490453f/1119927554A2_SW"
+},
+"productImages": [
+"tif/f9/01/f9017920d7e348748073fcf32b337a23/1119927554A2_OM_F"
+],
+"swatchCount": "1",
+"itemLevelCallout": [
+"Available in cups C-G"
+],
+"price": "$44.95"
+},
+{
+"id": "5000007887",
+"url": "/us/vs/bras-catalog/5000007887?choice=4PUS&genericId=11180752&limit=100&resultPosition=80&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret",
+"name": "Strappy Back Light Impact Sports Bra",
+"rating": 4.42,
+"totalReviewCount": 114,
+"genericId": "11180752",
+"choiceValue": "4PUS",
+"choice": {
+"genericId": "11180752",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/ba/1d/ba1d6b0740184e43966cd0c3a063ebe5/111807524PUS_SW"
+},
+"productImages": [
+"tif/e6/15/e6153cdf482e4e3d9283d61f61347275/111807524PUS_OM_F"
+],
+"swatchCount": "1",
+"isClearance": true,
+"price": "$39.50",
+"salePrice": "$8.99"
+},
+{
+"id": "5000000067",
+"url": "/us/vs/bras-catalog/5000000067?choice=39H6&genericId=11171075&limit=100&resultPosition=81&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret",
+"name": "Sexy Tee Lace Push-Up Bra",
+"rating": 3.98,
+"totalReviewCount": 489,
+"genericId": "11171075",
+"choiceValue": "39H6",
+"choice": {
+"genericId": "11171075",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/ed/53/ed53f9b2b7c947edb30e12990b1a37f5/406468N8E_SW"
+},
+"productImages": [
+"tif/4a/5d/4a5da5fccccc4919b3f15a976324194e/1117107539H6_36C_OM_F"
+],
+"swatchCount": "2",
+"isClearance": true,
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$39.95",
+"salePrice": "$13.99"
+},
+{
+"id": "5000000067",
+"url": "/us/vs/bras-catalog/5000000067?choice=5OU8&genericId=11211823&limit=100&resultPosition=82&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret",
+"name": "Sexy Tee Push-Up Bra",
+"rating": 3.98,
+"totalReviewCount": 489,
+"genericId": "11211823",
+"choiceValue": "5OU8",
+"choice": {
+"genericId": "11211823",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/b4/b1/b4b146a22f274b8782f5567b4a58a3e3/112118235OU8_SW"
+},
+"productImages": [
+"tif/1a/f1/1af148c058014d57b0b01b1512844d26/112118235OU8_OM_F"
+],
+"swatchCount": "1",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$34.95",
+"salePrice": "$29.50"
+},
+{
+"id": "5000000066",
+"url": "/us/vs/bras-catalog/5000000066?choice=5PCK&genericId=11210822&limit=100&resultPosition=83&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret",
+"name": "Sexy Tee Lightly Lined Demi Bra",
+"rating": 4,
+"totalReviewCount": 337,
+"genericId": "11210822",
+"choiceValue": "5PCK",
+"choice": {
+"genericId": "11210822",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/3b/2c/3b2cf89d72684994a90347c1b2deb750/112108225PCK_SW"
+},
+"productImages": [
+"tif/4c/ce/4cce225d06724450a89b6749656d9548/112108225PCK_OM_F"
+],
+"swatchCount": "2",
+"itemLevelCallout": [
+"Available in cups B-DDD"
+],
+"price": "$39.95",
+"salePrice": "$29.50"
+},
+{
+"id": "5000006097",
+"url": "/us/pink/bras-catalog/5000006097?choice=2ZUO&genericId=11200256&limit=100&resultPosition=84&searchBrand=vs&searchedFor=bra",
+"family": "PINK",
+"name": "Wear Everywhere Wireless Lightly Lined Bra",
+"rating": 3.69,
+"totalReviewCount": 169,
+"genericId": "11200256",
+"choiceValue": "2ZUO",
+"choice": {
+"genericId": "11200256",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/4e/4d/4e4db754e95a4bc2a0b4f50e01a7fbb5/112002562ZUO_SW"
+},
+"productImages": [
+"tif/52/65/5265e7ffaa164c6b8ec18b8836e2f425/111838332ZUO_OM_F"
+],
+"swatchCount": "13",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$36.95",
+"altPrices": [
+"any 2/$56"
+]
+},
+{
+"id": "5000005968",
+"url": "/us/pink/bras-catalog/5000005968?choice=2ZUO&genericId=11199791&limit=100&resultPosition=85&searchBrand=vs&searchedFor=bra",
+"family": "PINK",
+"name": "Wear Everywhere Wireless Push-Up Bra",
+"rating": 4.17,
+"totalReviewCount": 237,
+"genericId": "11199791",
+"choiceValue": "2ZUO",
+"choice": {
+"genericId": "11199791",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/7c/06/7c06213841fc46bbb592e5e83232e19e/111997912ZUO_SW"
+},
+"productImages": [
+"tif/46/c8/46c86ce00d834b9083c05d4f3d8727e7/111838312ZUO_OM_F"
+],
+"swatchCount": "14",
+"itemLevelCallout": [
+"Available in cups A-DD"
+],
+"price": "$36.95",
+"altPrices": [
+"any 2/$56"
+]
+},
+{
+"id": "5000005156",
+"url": "/us/pink/bras-catalog/5000005156?choice=34H1&genericId=11202805&limit=100&resultPosition=86&searchBrand=vs&searchedFor=bra",
+"family": "PINK",
+"name": "Wear Everywhere Super Push-Up Bra",
+"rating": 4.39,
+"totalReviewCount": 166,
+"genericId": "11202805",
+"choiceValue": "34H1",
+"choice": {
+"genericId": "11202805",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/33/6d/336d79591e45431eb7abe5054aa50704/1120280534H1_SW"
+},
+"productImages": [
+"tif/18/01/1801d119dcd2435fb61be40161618468/1115290134H1_OM_F"
+],
+"swatchCount": "10",
+"itemLevelCallout": [
+"Available in cups A-DD"
+],
+"price": "$36.95",
+"altPrices": [
+"any 2/$56"
+]
+},
+{
+"id": "5000000066",
+"url": "/us/vs/bras-catalog/5000000066?choice=5NC2&genericId=11210821&limit=100&resultPosition=87&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret",
+"name": "Sexy Tee Lightly Lined Demi Bra",
+"rating": 4,
+"totalReviewCount": 337,
+"genericId": "11210821",
+"choiceValue": "5NC2",
+"choice": {
+"genericId": "11210821",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/27/bd/27bd8ac81a9d4ccd879ba0adbfc686de/112108215NC2_SW"
+},
+"productImages": [
+"tif/81/c1/81c1e15a8bca4272a0dc89d95b8927fb/112108215NC2_OM_F"
+],
+"swatchCount": "1",
+"itemLevelCallout": [
+"Available in cups B-DDD"
+],
+"price": "$39.95",
+"salePrice": "$29.50"
+},
+{
+"id": "5000000066",
+"url": "/us/vs/bras-catalog/5000000066?choice=5OUA&genericId=11211822&limit=100&resultPosition=88&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret",
+"name": "Sexy Tee Lightly Lined Demi Bra",
+"rating": 4,
+"totalReviewCount": 337,
+"genericId": "11211822",
+"choiceValue": "5OUA",
+"choice": {
+"genericId": "11211822",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/86/c2/86c2b2efd0a7428f9e5c193e26de9d9a/112118225OUA_SW"
+},
+"productImages": [
+"tif/e6/db/e6dbb576f2d7458984cd76f7a2fecc3b/112118225OUA_OM_F"
+],
+"swatchCount": "1",
+"itemLevelCallout": [
+"Available in cups B-DDD"
+],
+"price": "$34.95",
+"salePrice": "$29.50"
+},
+{
+"id": "5000007222",
+"url": "/us/vs/bras-catalog/5000007222?choice=54A2&genericId=11156953&limit=100&resultPosition=89&searchBrand=vs&searchedFor=bra",
+"family": "Incredible by Victoria’s Secret",
+"name": "Lightly-Lined Lace Plunge Bra",
+"rating": 5,
+"totalReviewCount": 5,
+"genericId": "11156953",
+"choiceValue": "54A2",
+"choice": {
+"genericId": "11156953",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/c7/43/c743f3022d8e4ce1975b584f39131093/399184JU3_SW"
+},
+"productImages": [
+"tif/7a/9c/7a9cdafac122474db065e1fcae8611f1/399184JU3_OM_F"
+],
+"swatchCount": "9",
+"isClearance": true,
+"price": "$52.50",
+"salePrice": "$9.99"
+},
+{
+"id": "5000000254",
+"url": "/us/pink/bras-catalog/5000000254?choice=2ZUO&genericId=11202025&limit=100&resultPosition=90&searchBrand=vs&searchedFor=bra",
+"family": "PINK",
+"name": "Wear Everywhere Strapless Push-Up Bra",
+"rating": 3.91,
+"totalReviewCount": 121,
+"genericId": "11202025",
+"choiceValue": "2ZUO",
+"choice": {
+"genericId": "11202025",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/fc/b1/fcb1acf066b0407b8529d8fe6ec1e432/112020252ZUO_SW"
+},
+"productImages": [
+"tif/92/59/925927299db9483794051373708282a5/111519752ZUO_OM_F"
+],
+"swatchCount": "4",
+"itemLevelCallout": [
+"Available in cups AA-DD<br />\n&#160;"
+],
+"price": "$36.95",
+"altPrices": [
+"any 2/$56"
+]
+},
+{
+"id": "5000000066",
+"url": "/us/vs/bras-catalog/5000000066?choice=4V9O&genericId=11173215&limit=100&resultPosition=91&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret",
+"name": "Sexy Tee Lightly-Lined  Demi Bra",
+"rating": 4,
+"totalReviewCount": 337,
+"genericId": "11173215",
+"choiceValue": "4V9O",
+"choice": {
+"genericId": "11173215",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/77/cc/77cc765634644ec6a86a787882670a86/111732154V9O_SW"
+},
+"productImages": [
+"tif/ed/e4/ede43c86e69d47dfa1ac15efdced3103/111732154V9O_OM_F"
+],
+"swatchCount": "2",
+"isClearance": true,
+"itemLevelCallout": [
+"Available in cups B-DDD"
+],
+"price": "$34.50",
+"salePrice": "$9.99"
+},
+{
+"id": "5000007660",
+"url": "/us/vs/bras-catalog/5000007660?choice=39H6&genericId=11173826&limit=100&resultPosition=92&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret",
+"name": "Sexy Tee Unlined Demi Bra",
+"rating": 3.93,
+"totalReviewCount": 92,
+"genericId": "11173826",
+"choiceValue": "39H6",
+"choice": {
+"genericId": "11173826",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/be/52/be52ea1f6b3e4a1faca93371c65cf3f9/1117382639H6_SW"
+},
+"productImages": [
+"tif/66/44/66444d6768194b03a8aa7257d2978f8d/1117382639H6_OM_F"
+],
+"swatchCount": "2",
+"isClearance": true,
+"price": "$39.50",
+"salePrice": "$9.99"
+},
+{
+"id": "5000007660",
+"url": "/us/vs/bras-catalog/5000007660?choice=4V9C&genericId=11173827&limit=100&resultPosition=93&searchBrand=vs&searchedFor=bra",
+"family": "Victoria's Secret",
+"name": "Sexy Tee Unlined Demi Bra",
+"rating": 3.93,
+"totalReviewCount": 92,
+"genericId": "11173827",
+"choiceValue": "4V9C",
+"choice": {
+"genericId": "11173827",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/71/ae/71aeb47dec6f48468677c16e6250c43d/111738274V9C_SW"
+},
+"productImages": [
+"tif/1d/04/1d0403a63d204bb6bb114378192cfaad/111738274V9C_OM_F"
+],
+"swatchCount": "5",
+"isClearance": true,
+"price": "$34.50",
+"salePrice": "$9.99"
+},
+{
+"id": "1119353000",
+"url": "/us/pink/bras-catalog/1119353000?choice=2ZUO&genericId=11193530&limit=100&resultPosition=94&searchBrand=vs&searchedFor=bra",
+"family": "PINK",
+"name": "Loungin' Wireless Push-Up Bra",
+"rating": 4.34,
+"totalReviewCount": 174,
+"genericId": "11193530",
+"choiceValue": "2ZUO",
+"choice": {
+"genericId": "11193530",
+"genericLabel": "generic label",
+"label": "label "
+},
+"productImages": [
+"tif/ca/fc/cafc176b97e846bca413b8e907c87585/111935302ZUO_OM_F"
+],
+"swatchCount": "13",
+"itemLevelCallout": [
+"Available in XS-XXL and Small DD-Large DD"
+],
+"price": "$32.95"
+},
+{
+"id": "5000005161",
+"url": "/us/pink/bras-catalog/5000005161?choice=4VJ2&genericId=11205507&limit=100&resultPosition=95&searchBrand=vs&searchedFor=bra",
+"family": "PINK",
+"name": "Wear Everywhere T-Shirt Lightly Lined Bra",
+"rating": 4.26,
+"totalReviewCount": 407,
+"genericId": "11205507",
+"choiceValue": "4VJ2",
+"choice": {
+"genericId": "11205507",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/fa/3f/fa3f7276db7e4c14822262e752d5ac57/112055074VJ2_SW"
+},
+"productImages": [
+"tif/22/84/2284e694856446cdb2570f99bb243fed/112055074VJ2_OM_B"
+],
+"swatchCount": "5",
+"itemLevelCallout": [
+"Available in cups AA-DDD"
+],
+"price": "$36.95",
+"altPrices": [
+"any 2/$56"
+]
+},
+{
+"id": "5000005161",
+"url": "/us/pink/bras-catalog/5000005161?choice=2ZUO&genericId=11193052&limit=100&resultPosition=96&searchBrand=vs&searchedFor=bra",
+"family": "PINK",
+"name": "Wear Everywhere T-Shirt Lightly Lined Bra",
+"rating": 4.26,
+"totalReviewCount": 407,
+"genericId": "11193052",
+"choiceValue": "2ZUO",
+"choice": {
+"genericId": "11193052",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/87/31/87310156c61c431f93ff9d54cf9ff3da/111930522ZUO_SW"
+},
+"productImages": [
+"tif/17/4d/174d184470c04917bba94b57d274b5ed/111930522ZUO_OM_F"
+],
+"swatchCount": "5",
+"itemLevelCallout": [
+"Available in cups AA-DDD"
+],
+"price": "$36.95",
+"altPrices": [
+"any 2/$56"
+]
+},
+{
+"id": "5000000022",
+"url": "/us/vs/bras-catalog/5000000022?choice=86Q4&genericId=11210983&limit=100&resultPosition=97&searchBrand=vs&searchedFor=bra",
+"family": "Very Sexy",
+"name": "Push-Up Bra",
+"rating": 3.95,
+"totalReviewCount": 320,
+"genericId": "11210983",
+"choiceValue": "86Q4",
+"choice": {
+"genericId": "11210983",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/4f/b2/4fb21e73a1ef462fa68fd1cd45f5224f/1121098386Q4_SW"
+},
+"productImages": [
+"tif/75/2e/752e4c24e51242d1b3f714d0d1a42b0b/1121098386Q4_OM_F"
+],
+"swatchCount": "2",
+"itemLevelCallout": [
+"Available in cups A-DDD"
+],
+"price": "$59.95"
+},
+{
+"id": "5000000053",
+"url": "/us/vs/bras-catalog/5000000053?choice=4T2G&genericId=11172256&limit=100&resultPosition=98&searchBrand=vs&searchedFor=bra",
+"family": "Dream Angels",
+"name": "Lightly-Lined Demi Bra",
+"rating": 4.24,
+"totalReviewCount": 242,
+"genericId": "11172256",
+"choiceValue": "4T2G",
+"choice": {
+"genericId": "11172256",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/58/8c/588ca23e8f43496b8c4cd9e0a5977047/111722564T2G_SW"
+},
+"productImages": [
+"tif/c1/8d/c18d72c5124d4e778aad2fb1fe99bdef/111722564T2G_OM_F"
+],
+"swatchCount": "1",
+"isClearance": true,
+"itemLevelCallout": [
+"Available in cups A-G"
+],
+"price": "$66.50",
+"salePrice": "$9.99"
+},
+{
+"id": "5000008447",
+"url": "/us/vs/bras-catalog/5000008447?choice=3XY0&genericId=11205770&limit=100&resultPosition=99&searchBrand=vs&searchedFor=bra",
+"family": "Body by Victoria",
+"name": "Lightly Lined Full-Coverage Racerback Bra",
+"rating": 4.24,
+"totalReviewCount": 66,
+"genericId": "11205770",
+"choiceValue": "3XY0",
+"choice": {
+"genericId": "11205770",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/1e/98/1e986cf189374a6281221c40c80abe3c/111894383XY0_SW"
+},
+"productImages": [
+"tif/b0/50/b0500a8c7f614057a6ef73bad3a93501/111894383XY0_OM_F"
+],
+"swatchCount": "5",
+"itemLevelCallout": [
+"Available in cups B-G"
+],
+"price": "$49.95"
+},
+{
+"id": "5000007221",
+"url": "/us/vs/bras-catalog/5000007221?choice=55D4&genericId=11156363&limit=100&resultPosition=100&searchBrand=vs&searchedFor=bra",
+"family": "Incredible by Victoria’s Secret",
+"name": "Unlined Plunge Bra",
+"rating": 3.2,
+"totalReviewCount": 5,
+"genericId": "11156363",
+"choiceValue": "55D4",
+"choice": {
+"genericId": "11156363",
+"genericLabel": "generic label",
+"label": "label ",
+"swatchImage": "tif/40/e3/40e3ad22d3ba4427b4c645b25b7a2690/V897203_55D4_SW"
+},
+"productImages": [
+"tif/07/43/07433e4d23444c938a87d6a641b05f9c/399419JQK_OM_F"
+],
+"swatchCount": "7",
+"isClearance": true,
+"price": "$39.50",
+"salePrice": "$14.99"
+}
+],
+"totalProducts": 791,
+"searchedFor": "bra",
+"sortOptions": [
+{
+"isSelected": true,
+"value": "relevance;descending",
+"label": "Relevance"
+},
+{
+"isSelected": false,
+"value": "salepriceus;descending",
+"label": "Price High to Low"
+},
+{
+"isSelected": false,
+"value": "salepriceus;ascending",
+"label": "Price Low to High"
+},
+{
+"isSelected": false,
+"value": "rating;descending",
+"label": "Ratings"
+},
+{
+"isSelected": false,
+"value": "new;descending",
+"label": "New Arrivals"
+}
+],
+"analytics": {
+"search_term": "",
+"search_results": 0,
+"sort_by": ""
+},
+"resultId": "35e08188-3cfa-4b26-acc0-26ffdf490fd6",
+"request": {
+"filters": {
+"floorset": [
+"US"
+]
+},
+"num_results_per_page": 100,
+"us": [
+"vs"
+],
+"blacklist_rules": true,
+"term": "bra",
+"page": 1,
+"fmt_options": {
+"groups_start": "current",
+"groups_max_depth": 1
+},
+"sort_by": "relevance",
+"sort_order": "descending",
+"section": "Products",
+"features": {
+"query_items": true,
+"auto_generated_refined_query_rules": true,
+"manual_searchandizing": true,
+"personalization": true,
+"filter_items": true,
+"use_reranker_service_for_all": false
+},
+"feature_variants": {
+"query_items": "query_items_ctr_and_l2r",
+"auto_generated_refined_query_rules": "default_rules",
+"manual_searchandizing": null,
+"personalization": "default_personalization",
+"filter_items": "filter_items_w_atcs_and_purchases",
+"use_reranker_service_for_all": null
+},
+"filter_match_types": {
+"floorset": "any"
+},
+"searchandized_items": {}
+}
+}
